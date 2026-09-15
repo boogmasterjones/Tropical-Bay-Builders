@@ -1,0 +1,6 @@
+# Reference-only clone of another business's site, used for structural comparison during
+# the redesign - not part of this client's deliverable and shouldn't be published in their repo.
+_source_clearvant/
+
+# Local dev-server config for the preview tool
+.claude/
