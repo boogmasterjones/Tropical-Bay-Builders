@@ -9,8 +9,8 @@ $serviceCards = @(
   @{Slug="exterior-remodel-additions"; Name="Exterior Remodel &amp; Additions"; Img="https://images.unsplash.com/photo-1600585154526-990dced4db0d?q=80&w=900&auto=format&fit=crop"; Desc="Room additions, lanais, and exterior updates that add real living space and curb appeal."},
   @{Slug="roofing"; Name="Roofing"; Img="https://images.unsplash.com/photo-1632759145351-1d592919f522?q=80&w=900&auto=format&fit=crop"; Desc="Roof replacement and repair built for Florida's wind and rain, from shingle to metal."},
   @{Slug="fences"; Name="Fences"; Img="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?q=80&w=900&auto=format&fit=crop"; Desc="Privacy, pool-code, and decorative fencing in wood, vinyl, and aluminum."},
-  @{Slug="driveways-patios"; Name="Driveways &amp; Patios"; Img="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?q=80&w=900&auto=format&fit=crop"; Desc="Concrete, paver, and stamped-concrete driveways and patios built to handle Florida heat and rain."},
-  @{Slug="epoxy-flooring"; Name="Epoxy Flooring"; Img="https://images.unsplash.com/photo-1600566752355-35792bedcfea?q=80&w=900&auto=format&fit=crop"; Desc="Durable, easy-to-clean epoxy floor coatings for garages, lanais, and commercial spaces."},
+  @{Slug="driveways-patios"; Name="Driveways &amp; Patios"; Img="https://images.unsplash.com/photo-1761637823407-ef47925c2714?q=80&w=900&auto=format&fit=crop"; Desc="Concrete, paver, and stamped-concrete driveways and patios built to handle Florida heat and rain."},
+  @{Slug="epoxy-flooring"; Name="Epoxy Flooring"; Img="https://images.unsplash.com/photo-1771531072574-af6ed6b954c0?q=80&w=900&auto=format&fit=crop"; Desc="Durable, easy-to-clean epoxy floor coatings for garages, lanais, and commercial spaces."},
   @{Slug="woodworking"; Name="Custom Woodworking"; Img="https://images.unsplash.com/photo-1601058268499-e52658b8bb88?q=80&w=900&auto=format&fit=crop"; Desc="Built-ins, trim carpentry, and custom cabinetry crafted to fit your space exactly."}
 )
 $serviceCardsHtml = ($serviceCards | ForEach-Object {

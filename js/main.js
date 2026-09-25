@@ -6,6 +6,8 @@ function applyQuotePrefill() {
       if (field) {
         field.value = msg;
         sessionStorage.removeItem('quotePrefill');
+        var form = field.closest('.quote-form');
+        if (form) form.classList.add('show-stage-2', 'show-stage-3');
       }
     }
   } catch (e) { /* sessionStorage unavailable, ignore */ }
@@ -104,8 +106,34 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 
-  // ---- Quote form: require phone OR email, not both ----
+  // ---- Quote form: progressive reveal. The stage classes only hide
+  // anything inside the mobile media query, so desktop shows the full form. ----
   var quoteForm = document.querySelector('.quote-form');
+  if (quoteForm) {
+    var revealStage = function (n) {
+      for (var s = 2; s <= n; s++) quoteForm.classList.add('show-stage-' + s);
+    };
+    var nameInput = quoteForm.querySelector('input[name="name"]');
+    var stage2 = quoteForm.querySelector('.quote-stage[data-stage="2"]');
+    if (nameInput) {
+      nameInput.addEventListener('input', function () {
+        if (nameInput.value.trim().length >= 2) revealStage(2);
+      });
+    }
+    var phoneField = quoteForm.querySelector('input[name="phone"]');
+    if (phoneField) {
+      phoneField.addEventListener('input', function () {
+        if (phoneField.value.trim()) revealStage(2);
+      });
+    }
+    if (stage2) {
+      stage2.addEventListener('input', function () { revealStage(3); });
+      stage2.addEventListener('change', function () { revealStage(3); });
+    }
+    if (document.getElementById('message') && document.getElementById('message').value) revealStage(3);
+  }
+
+  // ---- Quote form: require phone OR email, not both ----
   if (quoteForm) {
     var phoneInput = quoteForm.querySelector('input[name="phone"]');
     var emailInput = quoteForm.querySelector('input[name="email"]');

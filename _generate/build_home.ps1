@@ -12,9 +12,9 @@ $workSlides = @(
   @{Img="https://images.unsplash.com/photo-1600489000022-c2086d79f9d4?q=80&w=800&auto=format&fit=crop"; Alt="Remodeled kitchen with custom cabinetry and island"; Title="Kitchen Remodeling"; Sub="Full renovation, North Port"},
   @{Img="https://images.unsplash.com/photo-1620626011761-996317b8d101?q=80&w=800&auto=format&fit=crop"; Alt="Remodeled bathroom with walk-in shower"; Title="Bathroom Remodeling"; Sub="Walk-in shower conversion"},
   @{Img="https://images.unsplash.com/photo-1541976590-713941681591?q=80&w=800&auto=format&fit=crop"; Alt="New home construction site framing"; Title="New Construction"; Sub="Ground-up build, Southwest Florida"},
-  @{Img="https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?q=80&w=800&auto=format&fit=crop"; Alt="Roof replacement in progress"; Title="Roofing"; Sub="Full roof replacement"},
-  @{Img="https://images.unsplash.com/photo-1600566752355-35792bedcfea?q=80&w=800&auto=format&fit=crop"; Alt="Paver driveway installation"; Title="Driveways &amp; Patios"; Sub="Paver installation"},
-  @{Img="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?q=80&w=800&auto=format&fit=crop"; Alt="Epoxy coated garage floor"; Title="Epoxy Flooring"; Sub="Garage floor coating"}
+  @{Img="https://images.unsplash.com/photo-1635424825057-7fb6dcd651ef?q=80&w=800&auto=format&fit=crop"; Alt="Roofer fastening shingles during a roof replacement"; Title="Roofing"; Sub="Full roof replacement"},
+  @{Img="https://images.unsplash.com/photo-1780838446281-9394772d07a8?q=80&w=800&auto=format&fit=crop"; Alt="Finished paver patio with stone retaining wall"; Title="Driveways &amp; Patios"; Sub="Paver patio installation"},
+  @{Img="https://images.unsplash.com/photo-1772305595483-6b058aff40f9?q=80&w=800&auto=format&fit=crop"; Alt="Crew rolling epoxy coating onto a concrete floor"; Title="Epoxy Flooring"; Sub="Floor coating application"}
 )
 $workSlidesHtml = ($workSlides | ForEach-Object {
 "        <div class=`"work-slide`">
@@ -154,6 +154,7 @@ $(Get-CtaStrip -Heading "Ready to Join Our Happy Customers?" -Text "Get a free, 
             <input type="tel" name="phone" placeholder="Phone (or email below)">
           </div>
 
+          <div class="quote-stage" data-stage="2">
           <span class="field-label">Email &amp; Service Area *</span>
           <p class="field-hint">Phone or email required so we can reach you.</p>
           <div class="field-row">
@@ -187,7 +188,9 @@ $(Get-CtaStrip -Heading "Ready to Join Our Happy Customers?" -Text "Get a free, 
             <label class="check-item"><input type="checkbox" name="service[]" value="Storm/Water/Fire Restoration"> Storm / Water / Fire Restoration</label>
             <label class="check-item"><input type="checkbox" name="service[]" value="Other"> Other</label>
           </div>
+          </div>
 
+          <div class="quote-stage" data-stage="3">
           <span class="field-label">When Would You Like This Completed?</span>
           <div class="radio-grid">
             <label class="radio-item"><input type="radio" name="timing" value="Timing is flexible"> Timing is Flexible</label>
@@ -205,6 +208,7 @@ $(Get-CtaStrip -Heading "Ready to Join Our Happy Customers?" -Text "Get a free, 
           <textarea name="message" id="message" placeholder="Property type, project scope, timeline, etc."></textarea>
 
           <button type="submit" class="btn btn-primary">Submit</button>
+          </div>
         </form>
       </div>
 
