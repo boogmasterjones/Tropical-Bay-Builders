@@ -18,6 +18,7 @@ function Get-HeadCommon {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>$Title</title>
 <meta name="description" content="$Desc">
+<meta name="google-site-verification" content="uSb5qILmsKFCCUuuUUaV5bJLycOQuN0H3jobwS4G31M">
 <link rel="canonical" href="$SiteUrl/$Canonical">
 <link rel="icon" type="image/svg+xml" href="/images/favicon.svg">
 <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32.png">
