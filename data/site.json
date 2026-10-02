@@ -1,0 +1,78 @@
+{
+  "site": {
+    "url": "https://www.tropicalbaybuilders.com",
+    "locale": "en-US",
+    "calendlyUrl": "",
+    "formAction": "https://formsubmit.co/contact@tropicalbaybuilders.com",
+    "defaultOgImage": "/images/og-image.jpg",
+    "gaMeasurementId": "",
+    "googleSiteVerification": "uSb5qILmsKFCCUuuUUaV5bJLycOQuN0H3jobwS4G31M"
+  },
+  "business": {
+    "name": "Tropical Bay Builders",
+    "kind": "operating",
+    "schemaType": "HomeAndConstructionBusiness",
+    "tagline": "Licensed general contractor based in North Port, FL, serving the Gulf Coast.",
+    "description": "Tropical Bay Builders is a licensed general contractor based in North Port, Florida, handling remodeling, new construction and disaster restoration across the Southwest Florida Gulf Coast.",
+    "phone": "(941) 336-6255",
+    "email": "contact@tropicalbaybuilders.com",
+    "regionLabel": "North Port & Southwest Florida",
+    "alsoServing": [
+      "North Port"
+    ],
+    "address": {
+      "street": "",
+      "city": "North Port",
+      "region": "FL",
+      "postalCode": "",
+      "showOnSite": false
+    },
+    "hours": [
+      {
+        "days": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "08:00",
+        "closes": "17:00"
+      }
+    ],
+    "sameAs": [],
+    "googleMapsUrl": "",
+    "rating": {
+      "value": 5,
+      "count": 42
+    }
+  },
+  "brand": {
+    "logoText": "Tropical Bay",
+    "colors": {
+      "primary": "#0F2A1F",
+      "primaryAlt": "#163D2D",
+      "action": "#E8762B",
+      "accent": "#F2C14E",
+      "surface": "#FFFFFF",
+      "surfaceAlt": "#F4F7F5",
+      "ink": "#12151A",
+      "body": "#3D4A5C"
+    },
+    "fonts": {
+      "heading": "Poppins",
+      "body": "Inter",
+      "googleFontsUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Inter:wght@400;500;600;700;800&display=swap"
+    }
+  },
+  "trustBadges": [
+    "Licensed & Insured",
+    "Free, No-Obligation Estimates",
+    "10+ Years in Business"
+  ],
+  "stats": [],
+  "cta": {
+    "label": "Free Estimate",
+    "href": "/#quote"
+  }
+}
