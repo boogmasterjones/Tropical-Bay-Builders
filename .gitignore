@@ -1,6 +1,29 @@
-# Reference-only clone of another business's site, used for structural comparison during
-# the redesign - not part of this client's deliverable and shouldn't be published in their repo.
-_source_clearvant/
+# build output
+dist/
+# generated types
+.astro/
 
-# Local dev-server config for the preview tool
-.claude/
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
+
+# generated from favicon.svg at build time
+public/apple-touch-icon.png
+# generated webp siblings
+public/images/**/*.webp

@@ -1,0 +1,51 @@
+---
+import { render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Picture from '../../components/Picture.astro';
+import { formatDate, getPosts, readingTime } from '../../lib/content';
+import { blogPostingSchema, breadcrumbSchema, faqSchema } from '../../lib/schema';
+import { site } from '../../lib/site';
+import { emHtml } from '../../lib/text';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { data } = post;
+const { Content } = await render(post);
+const path = `/blog/${post.id}`;
+const author = data.author ?? site.business.name;
+const date = formatDate(data.date);
+const minutes = readingTime(post.body ?? '');
+const jsonLd = [blogPostingSchema({ ...data, path }), breadcrumbSchema([{ name: 'Home', path: '/' }, { name: 'Blog', path: '/blog' }, { name: data.title, path }]), ...(data.faqs.length > 0 ? [faqSchema(data.faqs)] : [])];
+---
+
+<Base title={`${data.title} | ${site.brand.logoText}`} description={data.description} image={data.image} ogType="article" jsonLd={jsonLd}>
+  <div class="page-header">
+    <div class="container">
+      <p class="breadcrumb"><a href="/">Home</a> / <a href="/blog">Blog</a> / {data.title}</p>
+      <h1 set:html={emHtml(data.title)} />
+      <p style="color:#9aa5b1; font-size:0.95rem;">{date} &middot; {author} &middot; {minutes}</p>
+    </div>
+  </div>
+  <section>
+    <div class="container content-section" style="border-top:none;">
+      <div class="content-layout">
+        <div class="content-main">
+      {data.image && <Picture src={data.image} alt={data.imageAlt ?? ''} loading="eager" fetchpriority="high" sizes="(max-width: 900px) 100vw, 760px" />}
+      <Content />
+      {data.faqs.length > 0 && (
+        <>
+          <h2>Frequently Asked Questions</h2>
+          <div class="faq-list">{data.faqs.map((f) => (<details class="faq-item"><summary>{f.question}</summary><p>{f.answer}</p></details>))}</div>
+        </>
+      )}
+        </div>
+      </div>
+      <p style="margin-top:36px;"><a href="/blog" class="card-link">← Back to Blog</a></p>
+    </div>
+  </section>
+
+</Base>
