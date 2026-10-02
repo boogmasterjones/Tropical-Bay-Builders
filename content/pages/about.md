@@ -42,7 +42,7 @@ path: "/about"
     </div>
         <h2 id="contact">Contact Us</h2>
         <p>Have a project in mind, or a question before you commit? Call, email, or send us a message using the form below and we'll follow up as soon as we can.</p>
-        <form action="https://formsubmit.co/contact@tropicalbaybuilders.com" method="POST" class="quote-form">
+        <form action="https://formsubmit.co/contact@tropicalbaybuilders.com" method="POST" class="quote-form" data-progressive-fields>
           <input type="hidden" name="_subject" value="New Contact Form Submission - Tropical Bay Builders">
           <input type="hidden" name="_next" value="https://www.tropicalbaybuilders.com/thank-you">
           <input type="hidden" name="_captcha" value="true">

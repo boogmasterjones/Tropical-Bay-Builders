@@ -2191,3 +2191,9 @@ footer.site-footer {
   .grid-2:has(> .card),
   .grid-2:has(> .work-card) { grid-template-columns: 1fr; }
 }
+
+/* Quote form reveals in stages on every screen size, not only phones */
+.quote-form .quote-stage { display: none; }
+.quote-form.show-stage-2 .quote-stage[data-stage="2"],
+.quote-form.show-stage-3 .quote-stage[data-stage="3"] { display: block; animation: quoteReveal .35s var(--ease); }
+@keyframes quoteReveal { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: translateY(0); } }
