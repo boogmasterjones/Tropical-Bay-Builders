@@ -1,6 +1,6 @@
 ---
-title: "Remodeling & Construction in North Port, FL | Tropical Bay Builders"
-description: "Tropical Bay Builders provides kitchen & bath remodeling, new construction, and disaster restoration in North Port, FL. Licensed & insured, free estimates. Call (941) 336-6255."
+title: "General Contractor in Port Charlotte & North Port, FL"
+description: "Locally owned, licensed and insured general contractor in North Port and Port Charlotte. Remodeling, new construction and storm restoration. Free estimates."
 heading: "Remodeling & Construction in North Port, FL"
 subheading: "We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the…"
 path: "/"
@@ -18,8 +18,9 @@ faqs:
   <div class="container hero-inner">
     <div>
       <span class="eyebrow">North Port &amp; Southwest Florida</span>
-      <h1>Remodeling &amp; Construction in <em>North Port</em>, FL</h1>
+      <h1>Licensed General Contractor Serving <em>North Port</em>, Port Charlotte &amp; Southwest Florida</h1>
       <p class="lead">We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the first time.</p>
+      <p class="hero-services">Core services: <a href="/services/kitchen-remodeling">kitchen remodeling</a>, <a href="/services/bathroom-remodeling">bathroom remodeling</a>, <a href="/services/new-construction">new construction</a>, and <a href="/services/storm-damage-restoration">storm</a>, <a href="/services/water-damage-extraction">water</a> and <a href="/services/fire-damage-restoration">fire</a> restoration.</p>
       <div class="hero-actions">
         <a href="tel:+19413366255" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'hero_phone_button'})">Call (941) 336-6255</a>
         <a href="/#quote" class="btn btn-primary">Get a Free Estimate</a>
@@ -552,3 +553,21 @@ faqs:
     </div>
   </div>
 </section>
+
+## Areas We Serve
+
+Tropical Bay Builders is based in North Port and works along the Gulf Coast from Bradenton down to Sanibel Island. One crew handles remodeling, new construction and restoration, so you deal with the same people from the first visit to the final walkthrough.
+
+We regularly work in:
+
+- [Port Charlotte](/locations/port-charlotte)
+- [Punta Gorda](/locations/punta-gorda)
+- [Venice](/locations/venice)
+- [Englewood](/locations/englewood)
+- [Sarasota](/locations/sarasota)
+- [Bradenton](/locations/bradenton)
+- [Fort Myers](/locations/fort-myers)
+- [Boca Grande](/locations/boca-grande)
+- North Port and Sanibel Island
+
+If your home or business is in one of these areas, call (941) 336-6255 for a free, no-obligation estimate. See all [service areas](/locations).

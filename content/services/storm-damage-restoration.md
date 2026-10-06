@@ -1,5 +1,5 @@
 ---
-title: "Storm Damage Restoration in North Port, FL | Tropical Bay Builders"
+title: "Storm & Hurricane Damage Restoration | North Port, FL"
 description: "Roof, structural, and property damage repair after tropical storms and hurricanes, managed by a licensed general contractor from stabilization through full rebuild."
 name: "Storm Damage Restoration"
 heading: "Storm Damage Restoration in Southwest Florida"
@@ -17,12 +17,18 @@ faqs:
     answer: "Verify licensing before signing anything, be wary of same-day pressure to sign, and ask for a physical business address you can confirm."
   - question: "What should I do with debris after a storm before you arrive?"
     answer: "Photograph it in place first if possible, and avoid discarding anything until the damage has been documented for your insurance claim."
+  - question: "What should I do right after my property is damaged in a storm?"
+    answer: "Once it's safe, photograph all visible damage before you touch or move anything, and avoid discarding debris until the damage has been documented. Keep receipts for any emergency costs you pay out of pocket, and contact your insurer early, since claims often have reporting time limits. Don't sign with a door-to-door crew you can't verify. Then call us at (941) 336-6255 and we'll assess the damage and walk you through next steps."
+  - question: "Do you handle flood and water damage after a storm?"
+    answer: "Yes. Water damage and extraction is one of our services, and because we're a general contractor, the same crew can handle the repairs and rebuild once the water damage has been addressed."
+  - question: "Which cities do you serve for storm damage restoration?"
+    answer: "We're based in North Port and serve the Gulf Coast from Bradenton to Sanibel Island, including North Port, Port Charlotte, Punta Gorda, Venice, Englewood, Sarasota, Bradenton, Fort Myers, Boca Grande and Sanibel Island."
 ---
 
 <div class="page-header">
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / <a href="/restoration">Disaster Restoration</a> / Storm Damage Restoration</p>
-    <h1><em>Storm</em> Damage Restoration in Southwest Florida</h1>
+    <h1><em>Storm</em> and Hurricane Damage Restoration in North Port and Southwest Florida</h1>
     <p>Roof, structural, and property damage repair after tropical storms and hurricanes, managed by a licensed general contractor from stabilization through full rebuild.</p>
     <div class="hero-actions">
       <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'storm-damage-restoration_page_phone_button'})">Call (941) 336-6255</a>
@@ -149,3 +155,15 @@ faqs:
     </div>
   </div>
 </section>
+
+## Residential and Light-Commercial Storm Restoration
+
+Tropical Bay Builders works for both homeowners and businesses, handling residential and light-commercial storm damage restoration along the Gulf Coast. Whether a tropical storm or hurricane has damaged a house in North Port or a small commercial building in [Port Charlotte](/locations/port-charlotte), [Punta Gorda](/locations/punta-gorda) or [Venice](/locations/venice), the process starts the same way: we assess the damage, explain what we find in plain terms and give you a free, no-obligation estimate.
+
+We're a locally owned, licensed and insured general contractor based in North Port, serving Southwest Florida from Bradenton to Sanibel Island. Our hours are Monday through Saturday, 7am to 7pm. And if something's not right after the job, we'll make it right.
+
+## One Crew From Restoration Through Rebuild
+
+Storm damage rarely stops at one problem. A damaged roof can let water into ceilings, walls and floors, and structural damage may need more than a patch. Because we're a full general contractor, one crew handles restoration and the rebuild, so there's no handoff to a separate contractor once the damage is assessed.
+
+That can include [roofing](/services/roofing) repairs, [water damage and extraction](/services/water-damage-extraction) for interiors, and remodeling work to put rooms back together. Once the property is restored, we can also talk through [storm mitigation](/services/storm-mitigation) ahead of the next storm season. Mention any of these when you call (941) 336-6255 or request an estimate, and we'll include them in your assessment.
