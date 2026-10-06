@@ -54,8 +54,8 @@ faqs:
         </div>
         <div class="hero-visual-card">
           <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#7fe0c4" stroke-width="1.8"><circle cx="12" cy="12" r="9"></circle><path d="M9 12l2 2 4-4"></path></svg>
-          <strong>Satisfaction</strong>
-          <span>Guaranteed results</span>
+          <strong>Satisfaction Guarantee</strong>
+          <span>If it's not right, we make it right</span>
         </div>
       </div>
     </div>
@@ -64,9 +64,9 @@ faqs:
 <section class="section-green">
   <div class="container">
     <div class="section-head">
-      <span class="eyebrow-dark">See Our Work</span>
-      <h2>Real Results</h2>
-      <p>A sample of the remodeling, construction, and restoration work we do across North Port and Southwest Florida.</p>
+      <span class="eyebrow-dark">Our Services</span>
+      <h2>What We Build &amp; Restore</h2>
+      <p>The remodeling, construction, and restoration services we offer across North Port and Southwest Florida.</p>
     </div>
     <div class="work-gallery">
       <div class="work-track">
@@ -76,7 +76,7 @@ faqs:
           </div>
           <div class="work-slide-caption">
             <strong>Kitchen Remodeling</strong>
-            <span>Full renovation, North Port</span>
+            
           </div>
         </div>
         <div class="work-slide">
@@ -94,7 +94,7 @@ faqs:
           </div>
           <div class="work-slide-caption">
             <strong>New Construction</strong>
-            <span>Ground-up build, Southwest Florida</span>
+            
           </div>
         </div>
         <div class="work-slide">
