@@ -209,7 +209,7 @@ faqs:
       <div class="quote-card">
         <form class="quote-form" name="estimate-request" method="POST" action="https://formsubmit.co/contact@tropicalbaybuilders.com">
           <input type="hidden" name="_subject" value="New Free Estimate Request - Tropical Bay Builders">
-          <input type="hidden" name="_next" value="https://www.tropicalbaybuilders.com/thank-you">
+          <input type="hidden" name="_next" value="https://tropicalbaybuilders.com/thank-you">
           <input type="hidden" name="_captcha" value="false">
           <input type="hidden" name="_template" value="table">
           <p style="display:none"><label>Leave this field blank: <input name="_honey"></label></p>

@@ -44,7 +44,7 @@ path: "/about"
         <p>Have a project in mind, or a question before you commit? Call, email, or send us a message using the form below and we'll follow up as soon as we can.</p>
         <form action="https://formsubmit.co/contact@tropicalbaybuilders.com" method="POST" class="quote-form" data-progressive-fields>
           <input type="hidden" name="_subject" value="New Contact Form Submission - Tropical Bay Builders">
-          <input type="hidden" name="_next" value="https://www.tropicalbaybuilders.com/thank-you">
+          <input type="hidden" name="_next" value="https://tropicalbaybuilders.com/thank-you">
           <input type="hidden" name="_captcha" value="true">
           <div class="form-row">
             <div class="form-group"><label for="c-name">Name</label><input type="text" id="c-name" name="Name" required=""></div>
