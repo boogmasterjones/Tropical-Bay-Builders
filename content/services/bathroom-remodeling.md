@@ -78,7 +78,7 @@ faqs:
     <div class="grid-3">
       <div class="card"><h3>Licensed &amp; Insured</h3><p>Work with confidence knowing our crew is licensed and insured for residential and commercial work.</p></div>
       <div class="card"><h3>Free, Honest Estimates</h3><p>No pressure, no gimmicks - just a clear price based on your property's actual scope.</p></div>
-      <div class="card"><h3>Satisfaction Guaranteed</h3><p>If something's not right after we leave, tell us and we'll make it right.</p></div>
+      <div class="card"><h3>Questions After the Job?</h3><p>If something does not look right after we leave, tell us and we will take a look.</p></div>
     </div>
   </div>
 </section>

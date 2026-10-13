@@ -54,8 +54,8 @@ faqs:
         </div>
         <div class="hero-visual-card">
           <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#7fe0c4" stroke-width="1.8"><circle cx="12" cy="12" r="9"></circle><path d="M9 12l2 2 4-4"></path></svg>
-          <strong>Satisfaction Guarantee</strong>
-          <span>If it's not right, we make it right</span>
+          <strong>Free Estimates</strong>
+          <span>No obligation, no pressure</span>
         </div>
       </div>
     </div>
