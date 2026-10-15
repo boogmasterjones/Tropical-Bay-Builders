@@ -76,7 +76,6 @@ faqs:
           </div>
           <div class="work-slide-caption">
             <strong>Kitchen Remodeling</strong>
-            
           </div>
         </div>
         <div class="work-slide">
@@ -94,7 +93,6 @@ faqs:
           </div>
           <div class="work-slide-caption">
             <strong>New Construction</strong>
-            
           </div>
         </div>
         <div class="work-slide">
