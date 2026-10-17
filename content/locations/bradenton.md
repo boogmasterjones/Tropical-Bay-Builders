@@ -65,7 +65,6 @@ faqs:
     </div>
         <h3>Manatee County Permitting</h3>
         <p>Permitting is handled as part of our new construction and addition projects in Bradenton.</p>
-        
         <h3>Older Homes Near Downtown</h3>
         <p>Homes near downtown and the Riverwalk district are often older than what you'll find in Bradenton's newer eastern neighborhoods, which means more variables to check - existing electrical capacity, foundation condition, and whether prior renovations were permitted correctly - before we finalize a remodel or restoration plan.</p>
         <h3>Frequently Asked Questions</h3>

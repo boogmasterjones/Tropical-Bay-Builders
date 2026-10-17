@@ -1,11 +1,11 @@
 {
   "site": {
-    "url": "https://www.tropicalbaybuilders.com",
+    "url": "https://tropicalbaybuilders.com",
     "locale": "en-US",
     "calendlyUrl": "",
     "formAction": "https://formsubmit.co/contact@tropicalbaybuilders.com",
     "defaultOgImage": "/images/og-image.jpg",
-    "gaMeasurementId": "",
+    "gaMeasurementId": "G-5FRENDMQTL",
     "googleSiteVerification": "uSb5qILmsKFCCUuuUUaV5bJLycOQuN0H3jobwS4G31M"
   },
   "business": {
@@ -34,10 +34,12 @@
           "Tuesday",
           "Wednesday",
           "Thursday",
-          "Friday"
+          "Friday",
+          "Saturday",
+          "Sunday"
         ],
-        "opens": "08:00",
-        "closes": "17:00"
+        "opens": "00:00",
+        "closes": "23:59"
       }
     ],
     "sameAs": [],

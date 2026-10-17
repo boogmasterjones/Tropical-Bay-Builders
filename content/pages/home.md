@@ -54,8 +54,8 @@ faqs:
         </div>
         <div class="hero-visual-card">
           <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#7fe0c4" stroke-width="1.8"><circle cx="12" cy="12" r="9"></circle><path d="M9 12l2 2 4-4"></path></svg>
-          <strong>Satisfaction Guarantee</strong>
-          <span>If it's not right, we make it right</span>
+          <strong>Free Estimates</strong>
+          <span>No obligation, no pressure</span>
         </div>
       </div>
     </div>
@@ -76,7 +76,6 @@ faqs:
           </div>
           <div class="work-slide-caption">
             <strong>Kitchen Remodeling</strong>
-            
           </div>
         </div>
         <div class="work-slide">
@@ -94,7 +93,6 @@ faqs:
           </div>
           <div class="work-slide-caption">
             <strong>New Construction</strong>
-            
           </div>
         </div>
         <div class="work-slide">
@@ -209,7 +207,7 @@ faqs:
       <div class="quote-card">
         <form class="quote-form" name="estimate-request" method="POST" action="https://formsubmit.co/contact@tropicalbaybuilders.com">
           <input type="hidden" name="_subject" value="New Free Estimate Request - Tropical Bay Builders">
-          <input type="hidden" name="_next" value="https://www.tropicalbaybuilders.com/thank-you">
+          <input type="hidden" name="_next" value="https://tropicalbaybuilders.com/thank-you">
           <input type="hidden" name="_captcha" value="false">
           <input type="hidden" name="_template" value="table">
           <p style="display:none"><label>Leave this field blank: <input name="_honey"></label></p>
