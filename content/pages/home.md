@@ -1,6 +1,6 @@
 ---
-title: "Port Charlotte General Contractor | Tropical Bay Builders"
-description: "Locally owned, licensed and insured. Kitchen and bath remodels, new construction and storm restoration in Port Charlotte. Free, no-obligation estimates."
+title: "General Contractor in North Port & Port Charlotte, FL"
+description: "Locally owned general contractor in North Port, FL and Port Charlotte. Kitchen and bath remodels, new construction, storm restoration. Free estimates."
 heading: "Remodeling & Construction in North Port, FL"
 subheading: "We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the…"
 path: "/"
