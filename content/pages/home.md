@@ -1,6 +1,6 @@
 ---
 title: "Port Charlotte General Contractor | Tropical Bay Builders"
-description: "Locally owned, licensed and insured. Kitchen and bath remodels, new construction and storm restoration in Port Charlotte. Free, no-obligation estimates."
+description: "5-star rated on Google, locally owned, licensed and insured. Kitchen and bath remodels, new construction and storm restoration in Port Charlotte. Free estimates."
 heading: "Remodeling & Construction in North Port, FL"
 subheading: "We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the…"
 path: "/"
@@ -31,7 +31,7 @@ faqs:
         <span class="item"><span class="check-mark">✓</span> 10+ Years in Business</span>
         <span class="item stars-inline">
           <span class="stars" aria-label="5 star rating"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg></span>
-          5.0 Stars, 42 Reviews
+          5-Star Rated on Google, 42 Reviews
         </span>
       </div>
     </div>
@@ -135,7 +135,7 @@ faqs:
     <div class="section-head">
       <span class="eyebrow-dark">Reviews</span>
       <h2>What Our Customers Are Saying</h2>
-      <p>Real feedback from our Google Business Profile.</p>
+      <p>5-star rated on Google across 42 reviews. Real feedback from our Google Business Profile.</p>
     </div>
     <div class="reviews-grid">
       <div class="review-card">
@@ -400,7 +400,7 @@ faqs:
       <div class="stat-tile">
         <div class="stat-icon"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg></div>
         <div class="stat-num">5-Star</div>
-        <div class="stat-label">Rated Service</div>
+        <div class="stat-label">Rated on Google</div>
       </div>
       <div class="stat-tile">
         <div class="stat-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M9 12l2 2 4-4"></path></svg></div>
