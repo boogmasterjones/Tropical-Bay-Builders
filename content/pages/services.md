@@ -2,7 +2,7 @@
 title: "General Contracting Services | Tropical Bay Builders"
 description: "Kitchen and bathroom remodeling, new construction, roofing, fencing, driveways, epoxy flooring, and custom woodworking in North Port, FL and Southwest Florida."
 heading: "General Contracting Services in North Port & Southwest Florida"
-subheading: "From kitchen and bathroom remodeling to new construction, roofing, and outdoor living spaces, Tropical Bay Builders handles the full scope of residential and light-commercial construction under one accountable crew. Every service below is backed by the same licensed, insured team and the same…"
+subheading: "From kitchen and bathroom remodeling to new construction, roofing, and outdoor living spaces, Tropical Bay Builders handles the full scope of residential and light-commercial construction under one accountable crew. Every service below is backed by the same locally owned team and the same…"
 path: "/services"
 ---
 
@@ -10,7 +10,7 @@ path: "/services"
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / Our Services</p>
     <h1>General Contracting Services in <em>North Port</em> &amp; Southwest Florida</h1>
-    <p>From kitchen and bathroom remodeling to new construction, roofing, and outdoor living spaces, Tropical Bay Builders handles the full scope of residential and light-commercial construction under one accountable crew. Every service below is backed by the same licensed, insured team and the same free, honest estimate process.</p>
+    <p>From kitchen and bathroom remodeling to new construction, roofing, and outdoor living spaces, Tropical Bay Builders handles the full scope of residential and light-commercial construction under one accountable crew. Every service below is backed by the same locally owned team and the same free, honest estimate process.</p>
     <div class="hero-actions">
       <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'services_hub_phone_button'})">Call (941) 336-6255</a>
       <a href="/#quote" class="btn btn-outline-dark">Request a Free Estimate</a>

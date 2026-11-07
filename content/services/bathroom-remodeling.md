@@ -34,7 +34,7 @@ faqs:
     <div class="grid-2">
       <div>
         <h2>What's Included</h2>
-        <p>Every bathroom project is priced to your home, but our standard approach covers tile, vanities, and full layout changes with licensed plumbing and electrical work as part of the same project - not a separate call.</p>
+        <p>Every bathroom project is priced to your home, but our standard approach covers tile, vanities, and full layout changes with plumbing and electrical updates as part of the same project - not a separate call.</p>
         <ul>
           <li>Walk-in shower and tub-to-shower conversions</li>
           <li>Custom vanities, tile, and lighting</li>
@@ -76,7 +76,7 @@ faqs:
       <h2>A Careful, Local Approach</h2>
     </div>
     <div class="grid-3">
-      <div class="card"><h3>Licensed &amp; Insured</h3><p>Work with confidence knowing our crew is licensed and insured for residential and commercial work.</p></div>
+      <div class="card"><h3>5-Star Rated on Google</h3><p>Homeowners and businesses across Southwest Florida rate us 5 stars on Google, and we work to keep it that way.</p></div>
       <div class="card"><h3>Free, Honest Estimates</h3><p>No pressure, no gimmicks - just a clear price based on your property's actual scope.</p></div>
       <div class="card"><h3>Questions After the Job?</h3><p>If something does not look right after we leave, tell us and we will take a look.</p></div>
     </div>
