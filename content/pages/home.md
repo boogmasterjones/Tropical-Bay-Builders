@@ -1,6 +1,6 @@
 ---
 title: "Port Charlotte General Contractor | Tropical Bay Builders"
-description: "5-star rated on Google and locally owned in North Port. Kitchen and bath remodels, new construction and storm restoration in Port Charlotte. Free estimates."
+description: "5-star rated on Google, locally owned, licensed and insured. Kitchen and bath remodels, new construction and storm restoration in Port Charlotte. Free estimates."
 heading: "Remodeling & Construction in North Port, FL"
 subheading: "We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the…"
 path: "/"
@@ -18,7 +18,7 @@ faqs:
   <div class="container hero-inner">
     <div>
       <span class="eyebrow">North Port &amp; Southwest Florida</span>
-      <h1>General Contractor Serving <em>North Port</em>, Port Charlotte &amp; Southwest Florida</h1>
+      <h1>Licensed General Contractor Serving <em>North Port</em>, Port Charlotte &amp; Southwest Florida</h1>
       <p class="lead">We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the first time.</p>
       <p class="hero-services">Core services: <a href="/services/kitchen-remodeling">kitchen remodeling</a>, <a href="/services/bathroom-remodeling">bathroom remodeling</a>, <a href="/services/new-construction">new construction</a>, and <a href="/services/storm-damage-restoration">storm</a>, <a href="/services/water-damage-extraction">water</a> and <a href="/services/fire-damage-restoration">fire</a> restoration.</p>
       <div class="hero-actions">
@@ -26,9 +26,9 @@ faqs:
         <a href="/#quote" class="btn btn-primary">Get a Free Estimate</a>
       </div>
       <div class="hero-trust">
-        <span class="item"><span class="check-mark">✓</span> Locally Owned in North Port</span>
+        <span class="item"><span class="check-mark">✓</span> Licensed &amp; Insured</span>
         <span class="item"><span class="check-mark">✓</span> Free, No-Obligation Estimates</span>
-        <span class="item"><span class="check-mark">✓</span> Call Us 24/7</span>
+        <span class="item"><span class="check-mark">✓</span> 10+ Years in Business</span>
         <span class="item stars-inline">
           <span class="stars" aria-label="5 star rating"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg></span>
           5-Star Rated on Google, 42 Reviews
@@ -274,7 +274,7 @@ faqs:
         <p>Contact us today to receive a free estimate for your project. Fill out the form or call now, and we'll be happy to help with scheduling, pricing, or any questions about the process.</p>
         <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'quote_section_phone_button'})">Call (941) 336-6255</a>
         <div class="quote-trust">
-          <span class="item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"></path><circle cx="12" cy="12" r="9"></circle></svg> Locally Owned</span>
+          <span class="item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"></path><circle cx="12" cy="12" r="9"></circle></svg> Licensed &amp; Insured</span>
           <span class="item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg> Free, No-Obligation Estimates</span>
           <span class="item"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg> 5.0 Stars, 42 Reviews</span>
         </div>
@@ -404,8 +404,8 @@ faqs:
       </div>
       <div class="stat-tile">
         <div class="stat-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path><path d="M9 12l2 2 4-4"></path></svg></div>
-        <div class="stat-num">Local</div>
-        <div class="stat-label">Owned in North Port</div>
+        <div class="stat-num">Licensed</div>
+        <div class="stat-label">&amp; Fully Insured</div>
       </div>
       <div class="stat-tile">
         <div class="stat-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 10c0 6-9 12-9 12s-9-6-9-12a9 9 0 1 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
@@ -414,8 +414,8 @@ faqs:
       </div>
       <div class="stat-tile">
         <div class="stat-icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 6L9 17l-5-5"></path></svg></div>
-        <div class="stat-num">24/7</div>
-        <div class="stat-label">Call Us Anytime</div>
+        <div class="stat-num">10+</div>
+        <div class="stat-label">Years in Business</div>
       </div>
     </div>
   </div>
@@ -493,7 +493,7 @@ faqs:
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Epoxy flooring &amp; custom woodworking</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Storm, water &amp; fire damage restoration</li>
         </ul>
-        <p>Whether you're searching for "general contractor near me," a "North Port remodeling contractor near me," or you need someone out fast after a storm, we're set up to help. We're locally owned, and we manage design, permitting, and construction as one accountable team based right here in North Port.</p>
+        <p>Whether you're searching for "general contractor near me," a "North Port remodeling contractor near me," or you need someone out fast after a storm, we're set up to help. We're licensed and insured, and we manage design, permitting, and construction as one accountable team based right here in North Port.</p>
         <div class="callout">
           <p>"Most of the regret we hear from homeowners starts the same way - hiring based on the lowest number instead of asking who's actually managing the job. That's the exact problem being a real general contractor, not a subcontractor broker, is built to solve."</p>
         </div>
