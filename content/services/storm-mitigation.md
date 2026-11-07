@@ -77,7 +77,7 @@ faqs:
       <h2>General Contracting Experience, Applied to Restoration</h2>
     </div>
     <div class="grid-3">
-      <div class="card"><h3>Licensed &amp; Insured</h3><p>Work with confidence knowing our crew is licensed and insured for restoration and rebuild work.</p></div>
+      <div class="card"><h3>Call Us 24/7</h3><p>Storm damage doesn't wait for business hours. Call us any time, day or night, and we'll tell you what happens next.</p></div>
       <div class="card"><h3>One Accountable Crew</h3><p>Once the damage is assessed and stabilized, we're also the ones who can rebuild it right - no handoff to a separate contractor.</p></div>
       <div class="card"><h3>Insurance Documentation</h3><p>We provide clear damage documentation to support your claim, though the claim itself is handled between you and your insurer.</p></div>
     </div>

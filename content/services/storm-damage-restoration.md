@@ -1,9 +1,9 @@
 ---
 title: "Storm & Hurricane Damage Restoration | North Port, FL"
-description: "Roof, structural, and property damage repair after tropical storms and hurricanes, managed by a licensed general contractor from stabilization through full rebuild."
+description: "Roof, structural, and property damage repair after tropical storms and hurricanes, managed by one local general contractor from stabilization through full rebuild."
 name: "Storm Damage Restoration"
 heading: "Storm Damage Restoration in Southwest Florida"
-summary: "Roof, structural, and property damage repair after tropical storms and hurricanes, managed by a licensed general contractor from stabilization through full rebuild."
+summary: "Roof, structural, and property damage repair after tropical storms and hurricanes, managed by one local general contractor from stabilization through full rebuild."
 order: 20
 group: "restoration"
 faqs:
@@ -29,7 +29,7 @@ faqs:
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / <a href="/restoration">Disaster Restoration</a> / Storm Damage Restoration</p>
     <h1><em>Storm</em> and Hurricane Damage Restoration in North Port and Southwest Florida</h1>
-    <p>Roof, structural, and property damage repair after tropical storms and hurricanes, managed by a licensed general contractor from stabilization through full rebuild.</p>
+    <p>Roof, structural, and property damage repair after tropical storms and hurricanes, managed by one local general contractor from stabilization through full rebuild.</p>
     <div class="hero-actions">
       <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'storm-damage-restoration_page_phone_button'})">Call (941) 336-6255</a>
       <a href="/#quote" class="btn btn-outline-dark">Request Help Now</a>
@@ -83,7 +83,7 @@ faqs:
       <h2>General Contracting Experience, Applied to Restoration</h2>
     </div>
     <div class="grid-3">
-      <div class="card"><h3>Licensed &amp; Insured</h3><p>Work with confidence knowing our crew is licensed and insured for restoration and rebuild work.</p></div>
+      <div class="card"><h3>Call Us 24/7</h3><p>Storm damage doesn't wait for business hours. Call us any time, day or night, and we'll tell you what happens next.</p></div>
       <div class="card"><h3>One Accountable Crew</h3><p>Once the damage is assessed and stabilized, we're also the ones who can rebuild it right - no handoff to a separate contractor.</p></div>
       <div class="card"><h3>Insurance Documentation</h3><p>We provide clear damage documentation to support your claim, though the claim itself is handled between you and your insurer.</p></div>
     </div>
@@ -120,7 +120,7 @@ faqs:
         <p>Legitimate contractors are usually swamped with existing calls in the days right after a major weather event, and high-pressure, same-day sign-up pitches from unfamiliar names are one of the most common scams that follow Florida storms. Verify licensing before anyone gets on your roof. Asking for a physical business address and checking that the license is active with the state takes only a few minutes and can save you from a much larger headache.</p>
         <div class="callout"><p>"Because we're a full general contractor, we're able to take a property from storm damage through complete restoration and remodeling - not just the initial repair."</p></div>
         <h3>From Repair to Full Rebuild</h3>
-        <p>Because we're a licensed general contractor first, we're able to take a property from storm damage through full restoration without handing the rebuild off to a separate company. That means one point of contact from the first tarp to the final walkthrough, and it also means the crew doing your final finish work has full context on what happened during the original damage - not a fresh team starting from a written report. That continuity also matters for warranty purposes - if a repair issue comes up later, there's no ambiguity about which contractor is responsible for which part of the work.</p>
+        <p>Because we're a general contractor first, we're able to take a property from storm damage through full restoration without handing the rebuild off to a separate company. That means one point of contact from the first tarp to the final walkthrough, and it also means the crew doing your final finish work has full context on what happened during the original damage - not a fresh team starting from a written report. That continuity also matters later - if a repair issue comes up, there's no ambiguity about which contractor is responsible for which part of the work.</p>
         <h3>Frequently Asked Questions</h3>
         <div class="faq-list">
           <details class="faq-item"><summary>How quickly can you respond after a storm?<span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg></span></summary><p>Reach out as soon as it's safe to do so and we'll get back to you promptly to assess the damage and schedule next steps.</p></details>
@@ -160,7 +160,7 @@ faqs:
 
 Tropical Bay Builders works for both homeowners and businesses, handling residential and light-commercial storm damage restoration along the Gulf Coast. Whether a tropical storm or hurricane has damaged a house in North Port or a small commercial building in [Port Charlotte](/locations/port-charlotte), [Punta Gorda](/locations/punta-gorda) or [Venice](/locations/venice), the process starts the same way: we assess the damage, explain what we find in plain terms and give you a free, no-obligation estimate.
 
-We're a locally owned, licensed and insured general contractor based in North Port, serving Southwest Florida from Bradenton to Sanibel Island. Our hours are Monday through Saturday, 7am to 7pm. And if something's not right after the job, we'll make it right.
+We're a locally owned general contractor based in North Port, serving Southwest Florida from Bradenton to Sanibel Island, and you can call us 24/7.
 
 ## One Crew From Restoration Through Rebuild
 

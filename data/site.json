@@ -12,8 +12,8 @@
     "name": "Tropical Bay Builders",
     "kind": "operating",
     "schemaType": "HomeAndConstructionBusiness",
-    "tagline": "Licensed general contractor based in North Port, FL, serving the Gulf Coast.",
-    "description": "Tropical Bay Builders is a licensed general contractor based in North Port, Florida, handling remodeling, new construction and disaster restoration across the Southwest Florida Gulf Coast.",
+    "tagline": "General contractor based in North Port, FL, serving the Gulf Coast.",
+    "description": "Tropical Bay Builders is a locally owned general contractor based in North Port, Florida, handling remodeling, new construction and disaster restoration across the Southwest Florida Gulf Coast.",
     "phone": "(941) 336-6255",
     "email": "contact@tropicalbaybuilders.com",
     "regionLabel": "North Port & Southwest Florida",
@@ -68,9 +68,9 @@
     }
   },
   "trustBadges": [
-    "Licensed & Insured",
+    "Locally Owned",
     "Free, No-Obligation Estimates",
-    "10+ Years in Business"
+    "5-Star Rated on Google"
   ],
   "stats": [],
   "cta": {

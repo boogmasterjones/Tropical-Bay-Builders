@@ -1,6 +1,6 @@
 ---
 title: "Disaster Restoration Services | Tropical Bay Builders"
-description: "Storm damage, water extraction, fire restoration, and storm mitigation in North Port, FL and Southwest Florida. Licensed general contractor, one crew from assessment to rebuild."
+description: "Storm damage, water extraction, fire restoration, and storm mitigation in North Port, FL and Southwest Florida. Locally owned general contractor, one crew from assessment to rebuild."
 heading: "Disaster Restoration in North Port & Southwest Florida"
 subheading: "Florida weather doesn't wait, and neither should your repairs. Tropical Bay Builders handles storm damage, water extraction, fire restoration, and storm mitigation upgrades as a single accountable contractor - from initial assessment through full rebuild."
 path: "/restoration"
