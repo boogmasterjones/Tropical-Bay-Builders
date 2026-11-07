@@ -19,7 +19,7 @@ faqs:
   - question: "Do you serve Bradenton from North Port?"
     answer: "Yes. Tropical Bay Builders is locally owned and based in North Port, FL, and Bradenton is part of our Gulf Coast service area, which runs from Bradenton to Sanibel Island."
   - question: "Are estimates free?"
-    answer: "Yes. Estimates are free and no-obligation. Call (941) 336-6255, Monday to Saturday, 7am to 7pm, to set one up."
+    answer: "Yes. Estimates are free and no-obligation. Call (941) 336-6255, 24/7, to set one up."
 ---
 
 <div class="page-header">
@@ -110,4 +110,4 @@ Tropical Bay Builders is a licensed and insured general contractor, and one crew
 - **Exterior work:** [exterior remodels and additions](/services/exterior-remodel-additions).
 - **Restoration:** [storm damage restoration](/services/storm-damage-restoration), [water damage and extraction](/services/water-damage-extraction) and [fire damage restoration](/services/fire-damage-restoration).
 
-We also work in nearby [Sarasota](/locations/sarasota) and [Venice](/locations/venice). Call (941) 336-6255, Monday to Saturday, 7am to 7pm, for a free, no-obligation estimate.
+We also work in nearby [Sarasota](/locations/sarasota) and [Venice](/locations/venice). Call (941) 336-6255, 24/7, for a free, no-obligation estimate.

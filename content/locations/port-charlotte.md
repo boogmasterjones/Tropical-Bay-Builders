@@ -17,7 +17,7 @@ faqs:
   - question: "Do you work on both retirement community and canal-front homes in Port Charlotte?"
     answer: "Yes - we take on projects across Port Charlotte's mix of retirement communities, canal-front lots, and standard inland homes, each scoped for its specific conditions."
   - question: "Do you offer free estimates in Port Charlotte?"
-    answer: "Yes. Estimates are free and no-obligation. Call (941) 336-6255, Monday to Saturday, 7am to 7pm."
+    answer: "Yes. Estimates are free and no-obligation. Call (941) 336-6255, 24/7."
   - question: "Are you licensed and insured?"
     answer: "Yes. Tropical Bay Builders is a licensed and insured general contractor, locally owned and based in North Port, FL."
   - question: "Do you handle permits for new homes and additions?"
@@ -42,7 +42,7 @@ faqs:
     <p>Our remodeling and new construction work in Port Charlotte covers <a href="/services/kitchen-remodeling">kitchen remodeling</a>, <a href="/services/bathroom-remodeling">bathroom remodeling</a>, <a href="/services/exterior-remodel-additions">exterior remodels and additions</a>, and full new builds. Bathroom projects include licensed plumbing and electrical work, and permitting is handled as part of new construction and addition projects.</p>
     <h2>Storm &amp; Water Damage Restoration in Port Charlotte</h2>
     <p>When storm, water or fire damage hits a Port Charlotte home or business, one crew handles the restoration and the rebuild. See our <a href="/services/storm-damage-restoration">storm damage restoration</a>, <a href="/services/water-damage-extraction">water damage and extraction</a> and <a href="/services/fire-damage-restoration">fire damage restoration</a> services, or ask about <a href="/services/storm-mitigation">storm mitigation</a>.</p>
-    <p>We're locally owned and based in North Port, and Port Charlotte is part of our regular service area. One crew handles remodeling, construction and restoration, Monday to Saturday, 7am to 7pm.</p>
+    <p>We're locally owned and based in North Port, and Port Charlotte is part of our regular service area. One crew handles remodeling, construction and restoration, and you can call us 24/7.</p>
     <div class="content-layout">
       <div class="content-main">
         <h3>What We Build &amp; Repair in Port Charlotte</h3>
@@ -69,7 +69,7 @@ faqs:
         <p>Because so much of Port Charlotte sits along canals feeding into Charlotte Harbor, exterior materials here fight a constant, low-grade salt exposure that most inland Florida homes never deal with. Left unaddressed, that exposure accelerates wear on roofing, siding, and fencing far faster than the manufacturer's rated lifespan would suggest. Homes in the older sections near Edgewater Drive and the newer construction around Peachland Boulevard both deal with it, just at slightly different rates depending on proximity to open water.</p>
         <div class="callout"><p>"Waterfront properties in Port Charlotte aren't harder to build on because they're difficult - they're harder because the salt exposure gets a head start if materials aren't chosen with that in mind from day one."</p></div>
         <h3>What to Expect on Your First Project</h3>
-        <p>Every Port Charlotte project starts with a free, no-obligation estimate. We're a licensed and insured, locally owned general contractor, and if something's not right after the job, we'll make it right. Call (941) 336-6255, Monday to Saturday, 7am to 7pm.</p>
+        <p>Every Port Charlotte project starts with a free, no-obligation estimate. We're a licensed and insured, locally owned general contractor, and if something's not right after the job, we'll make it right. Call (941) 336-6255, 24/7.</p>
         <h3>Frequently Asked Questions</h3>
         <div class="faq-list">
           <details class="faq-item"><summary>How often do canal-front homes in Port Charlotte need exterior maintenance?<span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg></span></summary><p>Most waterfront and canal-front homes benefit from an exterior inspection every year or two. Salt air off the Harbor accelerates wear on roofing and siding faster than a few miles inland.</p></details>

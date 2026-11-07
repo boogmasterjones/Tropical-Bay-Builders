@@ -160,7 +160,7 @@ faqs:
 
 Tropical Bay Builders works for both homeowners and businesses, handling residential and light-commercial storm damage restoration along the Gulf Coast. Whether a tropical storm or hurricane has damaged a house in North Port or a small commercial building in [Port Charlotte](/locations/port-charlotte), [Punta Gorda](/locations/punta-gorda) or [Venice](/locations/venice), the process starts the same way: we assess the damage, explain what we find in plain terms and give you a free, no-obligation estimate.
 
-We're a locally owned, licensed and insured general contractor based in North Port, serving Southwest Florida from Bradenton to Sanibel Island. Our hours are Monday through Saturday, 7am to 7pm. And if something's not right after the job, we'll make it right.
+We're a locally owned, licensed and insured general contractor based in North Port, serving Southwest Florida from Bradenton to Sanibel Island. Our hours are 24/7. And if something's not right after the job, we'll make it right.
 
 ## One Crew From Restoration Through Rebuild
 

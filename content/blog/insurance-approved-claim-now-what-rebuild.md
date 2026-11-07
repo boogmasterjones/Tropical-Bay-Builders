@@ -94,4 +94,4 @@ To be clear: Tropical Bay Builders does not handle insurance claims. Your claim,
 
 ## Ready for the Next Step?
 
-If your storm, water or fire claim was just approved and you are in North Port, Punta Gorda, Englewood, Sarasota, Bradenton, Fort Myers, Boca Grande, Sanibel Island or nearby, call Tropical Bay Builders at (941) 336-6255, Monday through Saturday, 7am to 7pm, to schedule a free, no-obligation estimate.
+If your storm, water or fire claim was just approved and you are in North Port, Punta Gorda, Englewood, Sarasota, Bradenton, Fort Myers, Boca Grande, Sanibel Island or nearby, call Tropical Bay Builders at (941) 336-6255, 24/7, to schedule a free, no-obligation estimate.
