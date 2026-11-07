@@ -5,7 +5,7 @@ date: 2026-10-06
 category: "Restoration"
 faqs:
   - question: "My insurance approved my claim. Do I have to use the contractor they suggest?"
-    answer: "That depends on your policy, so check with your insurer. Many homeowners get estimates from several contractors, check each one out and compare them before deciding."
+    answer: "That depends on your policy, so check with your insurer. Many homeowners get estimates from several licensed and insured contractors and compare them before deciding."
   - question: "Does Tropical Bay Builders handle my insurance claim?"
     answer: "No. The claim stays between you and your insurance company. Tropical Bay Builders can provide a free, no-obligation estimate for the repair work your home needs."
   - question: "Should I keep receipts for emergency tarping and water removal?"
@@ -42,7 +42,7 @@ If you have not already, gather everything in one place:
 
 A simple folder on your phone and a paper envelope for receipts works fine. Being organized here can save back-and-forth later.
 
-## Step 3: Check Out Any Contractor Before You Sign
+## Step 3: Choose a Licensed and Insured General Contractor
 
 After a big storm, contractors appear everywhere. Some are excellent. Some are not from the area and will be gone by the time a problem shows up. A few habits protect you:
 
@@ -52,7 +52,7 @@ After a big storm, contractors appear everywhere. Some are excellent. Some are n
 - **Avoid on-the-spot, door-to-door contracts.** Be wary of anyone who knocks, says they can start tomorrow and pushes you to sign that day. A legitimate contractor will give you time to read and compare.
 - **Look for local roots and reviews.** A contractor based nearby, with a track record you can check, has a reason to stand behind the work.
 
-Tropical Bay Builders is a locally owned general contractor based in North Port. Estimates are free and come with no obligation.
+Tropical Bay Builders is a locally owned, licensed and insured general contractor based in North Port, with 10+ years serving the area. Estimates are free and come with no obligation.
 
 ## Step 4: Understand How a Rebuild Runs
 
@@ -76,7 +76,7 @@ Framing repairs, roofing, drywall, cabinets, flooring, trim, paint and fixtures 
 
 ### Final Walkthrough
 
-Before the job is called done, walk every room with your contractor. Make a list of anything that is not right. Go through that list together and agree how each item will be fixed.
+Before the job is called done, walk every room with your contractor. Make a list of anything that is not right. Tropical Bay Builders offers a satisfaction guarantee: if something is not right after the job, they will make it right.
 
 ## Why One Crew Helps
 
@@ -94,4 +94,4 @@ To be clear: Tropical Bay Builders does not handle insurance claims. Your claim,
 
 ## Ready for the Next Step?
 
-If your storm, water or fire claim was just approved and you are in North Port, Punta Gorda, Englewood, Sarasota, Bradenton, Fort Myers, Boca Grande, Sanibel Island or nearby, call Tropical Bay Builders at (941) 336-6255, 24/7, to schedule a free, no-obligation estimate.
+If your storm, water or fire claim was just approved and you are in North Port, Punta Gorda, Englewood, Sarasota, Bradenton, Fort Myers, Boca Grande, Sanibel Island or nearby, call Tropical Bay Builders at (941) 336-6255, Monday through Saturday, 7am to 7pm, to schedule a free, no-obligation estimate.

@@ -1,9 +1,9 @@
 ---
 title: "Fire Damage Restoration in North Port, FL | Tropical Bay Builders"
-description: "Structural repair and full rebuild after fire damage, managed by one local general contractor from initial damage assessment through finished remodeling."
+description: "Structural repair and full rebuild after fire damage, managed by a licensed general contractor from initial damage assessment through finished remodeling."
 name: "Fire Damage Restoration Services"
 heading: "Fire Damage Restoration Services"
-summary: "Structural repair and full rebuild after fire damage, managed by one local general contractor from initial damage assessment through finished remodeling."
+summary: "Structural repair and full rebuild after fire damage, managed by a licensed general contractor from initial damage assessment through finished remodeling."
 order: 22
 group: "restoration"
 faqs:
@@ -23,7 +23,7 @@ faqs:
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / <a href="/restoration">Disaster Restoration</a> / Fire Damage Restoration</p>
     <h1><em>Fire</em> Damage Restoration Services</h1>
-    <p>Structural repair and full rebuild after fire damage, managed by one local general contractor from initial damage assessment through finished remodeling.</p>
+    <p>Structural repair and full rebuild after fire damage, managed by a licensed general contractor from initial damage assessment through finished remodeling.</p>
     <div class="hero-actions">
       <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'fire-damage-restoration_page_phone_button'})">Call (941) 336-6255</a>
       <a href="/#quote" class="btn btn-outline-dark">Request Help Now</a>
@@ -77,7 +77,7 @@ faqs:
       <h2>General Contracting Experience, Applied to Restoration</h2>
     </div>
     <div class="grid-3">
-      <div class="card"><h3>Call Us 24/7</h3><p>Damage doesn't wait for business hours. Call us any time, day or night, and we'll tell you what happens next.</p></div>
+      <div class="card"><h3>Licensed &amp; Insured</h3><p>Work with confidence knowing our crew is licensed and insured for restoration and rebuild work.</p></div>
       <div class="card"><h3>One Accountable Crew</h3><p>Once the damage is assessed and stabilized, we're also the ones who can rebuild it right - no handoff to a separate contractor.</p></div>
       <div class="card"><h3>Insurance Documentation</h3><p>We provide clear damage documentation to support your claim, though the claim itself is handled between you and your insurer.</p></div>
     </div>

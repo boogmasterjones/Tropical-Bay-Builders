@@ -1,6 +1,6 @@
 ---
 title: "General Contractor in Bradenton, FL | Tropical Bay Builders"
-description: "Locally owned general contractor serving Bradenton, FL for remodeling, new construction, exterior work and storm restoration. Free, no-obligation estimates."
+description: "Licensed, insured general contractor serving Bradenton, FL for remodeling, new construction, exterior work and storm restoration. Free, no-obligation estimates."
 name: "Bradenton, FL"
 heading: "General Contractor in Bradenton, FL"
 summary: "From the Riverwalk district to Palma Sola, we bring general contracting Bradenton homeowners can count on - at the northern edge of our Gulf Coast service area."
@@ -19,14 +19,14 @@ faqs:
   - question: "Do you serve Bradenton from North Port?"
     answer: "Yes. Tropical Bay Builders is locally owned and based in North Port, FL, and Bradenton is part of our Gulf Coast service area, which runs from Bradenton to Sanibel Island."
   - question: "Are estimates free?"
-    answer: "Yes. Estimates are free and no-obligation. Call (941) 336-6255, 24/7, to set one up."
+    answer: "Yes. Estimates are free and no-obligation. Call (941) 336-6255, Monday to Saturday, 7am to 7pm, to set one up."
 ---
 
 <div class="page-header">
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / Bradenton General Contractor</p>
-    <h1>General Contractor Serving <em>Bradenton</em></h1>
-    <p>Tropical Bay Builders is a locally owned general contractor based in North Port, serving Bradenton homeowners and businesses with remodeling, new construction, exterior work and restoration.</p>
+    <h1>Licensed General Contractor Serving <em>Bradenton</em></h1>
+    <p>Tropical Bay Builders is a licensed, insured and locally owned general contractor based in North Port, serving Bradenton homeowners and businesses with remodeling, new construction, exterior work and restoration.</p>
     <div class="hero-actions">
       <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_page_phone_button'})">Call (941) 336-6255</a>
       <a href="/#quote" class="btn btn-outline-dark">Request a Free Estimate</a>
@@ -103,11 +103,11 @@ faqs:
 
 ## General Contracting Services in Bradenton
 
-Tropical Bay Builders is a locally owned general contractor, and one crew handles remodeling, construction and restoration for Bradenton homes and businesses.
+Tropical Bay Builders is a licensed and insured general contractor, and one crew handles remodeling, construction and restoration for Bradenton homes and businesses.
 
-- **Remodeling:** [kitchen remodeling](/services/kitchen-remodeling) and [bathroom remodeling](/services/bathroom-remodeling), with plumbing and electrical updates included in bathroom projects.
+- **Remodeling:** [kitchen remodeling](/services/kitchen-remodeling) and [bathroom remodeling](/services/bathroom-remodeling), with licensed plumbing and electrical work included in bathroom projects.
 - **New construction:** [new construction](/services/new-construction), with permitting handled as part of the project.
 - **Exterior work:** [exterior remodels and additions](/services/exterior-remodel-additions).
 - **Restoration:** [storm damage restoration](/services/storm-damage-restoration), [water damage and extraction](/services/water-damage-extraction) and [fire damage restoration](/services/fire-damage-restoration).
 
-We also work in nearby [Sarasota](/locations/sarasota) and [Venice](/locations/venice). Call (941) 336-6255, 24/7, for a free, no-obligation estimate.
+We also work in nearby [Sarasota](/locations/sarasota) and [Venice](/locations/venice). Call (941) 336-6255, Monday to Saturday, 7am to 7pm, for a free, no-obligation estimate.
