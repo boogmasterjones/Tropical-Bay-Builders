@@ -26,7 +26,7 @@ faqs:
     <h1>General Contractor in <em>Sarasota</em>, FL</h1>
     <p>From downtown condo towers to Siesta Key beach homes, we handle remodeling, new construction, and restoration throughout Sarasota.</p>
     <div class="hero-actions">
-      <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_page_phone_button'})">Call (941) 336-6255</a>
+      <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_page_phone_button'})">Call (941) 393-1144</a>
       <a href="/#quote" class="btn btn-outline-dark">Request a Free Estimate</a>
     </div>
   </div>
@@ -56,7 +56,7 @@ faqs:
           <span>Get a free, no-obligation estimate today.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -94,7 +94,7 @@ faqs:
       <h2>Get a Free Estimate in Sarasota</h2>
       <p>Call today or request an estimate online - we'll give you a straightforward price for your home or business.</p>
       <div class="cta-actions">
-        <a href="tel:+19413366255" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_cta_phone_button'})">Call (941) 336-6255</a>
+        <a href="tel:+19413931144" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_cta_phone_button'})">Call (941) 393-1144</a>
         <a href="/#quote" class="btn btn-primary">Request a Free Estimate</a>
       </div>
     </div>

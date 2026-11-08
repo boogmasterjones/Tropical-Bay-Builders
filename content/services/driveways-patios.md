@@ -24,7 +24,7 @@ faqs:
     <h1><em>Driveways</em> &amp; Patios in Southwest Florida</h1>
     <p>Concrete and paver driveways, patios, and outdoor living hardscaping, built with proper base prep and drainage for Southwest Florida's heat and heavy rain.</p>
     <div class="hero-actions">
-      <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'driveways-patios_page_phone_button'})">Call (941) 336-6255</a>
+      <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'driveways-patios_page_phone_button'})">Call (941) 393-1144</a>
       <a href="/#quote" class="btn btn-outline-dark">Request a Free Estimate</a>
     </div>
   </div>
@@ -62,7 +62,7 @@ faqs:
           <span>Get a free estimate for your home or business in North Port or nearby.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -104,7 +104,7 @@ faqs:
           <span>Get a free, no-obligation estimate today.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_mid'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_mid'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -142,7 +142,7 @@ faqs:
       <h2>Get a Free Driveways &amp; Patios Estimate</h2>
       <p>Tell us about your project and we'll get back to you with a straightforward price - no obligation.</p>
       <div class="cta-actions">
-        <a href="tel:+19413366255" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'driveways-patios_cta_phone_button'})">Call (941) 336-6255</a>
+        <a href="tel:+19413931144" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'driveways-patios_cta_phone_button'})">Call (941) 393-1144</a>
         <a href="/#quote" class="btn btn-primary">Request a Free Estimate</a>
       </div>
     </div>

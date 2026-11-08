@@ -12,7 +12,7 @@ path: "/services"
     <h1>General Contracting Services in <em>North Port</em> &amp; Southwest Florida</h1>
     <p>From kitchen and bathroom remodeling to new construction, roofing, and outdoor living spaces, Tropical Bay Builders handles the full scope of residential and light-commercial construction under one accountable crew. Every service below is backed by the same licensed, insured team and the same free, honest estimate process.</p>
     <div class="hero-actions">
-      <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'services_hub_phone_button'})">Call (941) 336-6255</a>
+      <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'services_hub_phone_button'})">Call (941) 393-1144</a>
       <a href="/#quote" class="btn btn-outline-dark">Request a Free Estimate</a>
     </div>
   </div>
@@ -70,7 +70,7 @@ path: "/services"
           <span>Tell us what you're picturing and we'll help you scope it - free estimate, no pressure.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'services_hub_strip_phone'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'services_hub_strip_phone'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -86,7 +86,7 @@ path: "/services"
       <p>Storm damage, water extraction, fire restoration, and storm mitigation - handled start to finish.</p>
       <div class="cta-actions">
         <a href="/restoration" class="btn btn-outline">View Restoration Services</a>
-        <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'services_hub_restoration_phone'})">Call (941) 336-6255</a>
+        <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'services_hub_restoration_phone'})">Call (941) 393-1144</a>
       </div>
     </div>
   </div>

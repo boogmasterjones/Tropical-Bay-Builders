@@ -19,7 +19,7 @@ faqs:
   - question: "Do you serve Bradenton from North Port?"
     answer: "Yes. Tropical Bay Builders is locally owned and based in North Port, FL, and Bradenton is part of our Gulf Coast service area, which runs from Bradenton to Sanibel Island."
   - question: "Are estimates free?"
-    answer: "Yes. Estimates are free and no-obligation. Call (941) 336-6255, 24/7, to set one up."
+    answer: "Yes. Estimates are free and no-obligation. Call (941) 393-1144, 24/7, to set one up."
 ---
 
 <div class="page-header">
@@ -28,7 +28,7 @@ faqs:
     <h1>Licensed General Contractor Serving <em>Bradenton</em></h1>
     <p>Tropical Bay Builders is a licensed, insured and locally owned general contractor based in North Port, serving Bradenton homeowners and businesses with remodeling, new construction, exterior work and restoration.</p>
     <div class="hero-actions">
-      <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_page_phone_button'})">Call (941) 336-6255</a>
+      <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_page_phone_button'})">Call (941) 393-1144</a>
       <a href="/#quote" class="btn btn-outline-dark">Request a Free Estimate</a>
     </div>
   </div>
@@ -58,7 +58,7 @@ faqs:
           <span>Get a free, no-obligation estimate today.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -94,7 +94,7 @@ faqs:
       <h2>Get a Free Estimate in Bradenton</h2>
       <p>Call today or request an estimate online - we'll give you a straightforward price for your home or business.</p>
       <div class="cta-actions">
-        <a href="tel:+19413366255" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_cta_phone_button'})">Call (941) 336-6255</a>
+        <a href="tel:+19413931144" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_cta_phone_button'})">Call (941) 393-1144</a>
         <a href="/#quote" class="btn btn-primary">Request a Free Estimate</a>
       </div>
     </div>
@@ -110,4 +110,4 @@ Tropical Bay Builders is a licensed and insured general contractor, and one crew
 - **Exterior work:** [exterior remodels and additions](/services/exterior-remodel-additions).
 - **Restoration:** [storm damage restoration](/services/storm-damage-restoration), [water damage and extraction](/services/water-damage-extraction) and [fire damage restoration](/services/fire-damage-restoration).
 
-We also work in nearby [Sarasota](/locations/sarasota) and [Venice](/locations/venice). Call (941) 336-6255, 24/7, for a free, no-obligation estimate.
+We also work in nearby [Sarasota](/locations/sarasota) and [Venice](/locations/venice). Call (941) 393-1144, 24/7, for a free, no-obligation estimate.

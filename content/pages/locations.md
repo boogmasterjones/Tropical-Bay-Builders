@@ -71,7 +71,7 @@ path: "/locations"
           <span>Give us a call - we may still be able to help depending on the project.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'areas_hub_strip_phone'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'areas_hub_strip_phone'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>

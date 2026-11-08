@@ -12,7 +12,7 @@ path: "/restoration"
     <h1>Disaster Restoration in <em>North Port</em> &amp; Southwest Florida</h1>
     <p>Florida weather doesn't wait, and neither should your repairs. Tropical Bay Builders handles storm damage, water extraction, fire restoration, and storm mitigation upgrades as a single accountable contractor - from initial assessment through full rebuild.</p>
     <div class="hero-actions">
-      <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'restoration_hub_phone_button'})">Call (941) 336-6255</a>
+      <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'restoration_hub_phone_button'})">Call (941) 393-1144</a>
       <a href="/#quote" class="btn btn-outline-dark">Request Help Now</a>
     </div>
   </div>
@@ -50,7 +50,7 @@ path: "/restoration"
           <span>Call us and we'll walk you through the next steps.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'restoration_hub_strip_phone'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'restoration_hub_strip_phone'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Request Help Now</a>
         </div>
       </div>

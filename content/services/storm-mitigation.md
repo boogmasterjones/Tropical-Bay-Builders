@@ -25,7 +25,7 @@ faqs:
     <h1><em>Storm</em> Mitigation Services</h1>
     <p>Preventive upgrades that help protect your property before the next storm season, from roofing reinforcement to drainage and water-intrusion prevention.</p>
     <div class="hero-actions">
-      <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'storm-mitigation_page_phone_button'})">Call (941) 336-6255</a>
+      <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'storm-mitigation_page_phone_button'})">Call (941) 393-1144</a>
       <a href="/#quote" class="btn btn-outline-dark">Request Help Now</a>
     </div>
   </div>
@@ -63,7 +63,7 @@ faqs:
           <span>Reach out and we'll assess the damage and walk you through next steps.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Request Help Now</a>
         </div>
       </div>
@@ -105,7 +105,7 @@ faqs:
           <span>Reach out and we'll assess the damage and walk you through next steps.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_mid'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_mid'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Request Help Now</a>
         </div>
       </div>
@@ -143,7 +143,7 @@ faqs:
       <h2>Dealing With Storm Mitigation?</h2>
       <p>Reach out and we'll assess the damage and walk you through next steps - no obligation.</p>
       <div class="cta-actions">
-        <a href="tel:+19413366255" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'storm-mitigation_cta_phone_button'})">Call (941) 336-6255</a>
+        <a href="tel:+19413931144" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'storm-mitigation_cta_phone_button'})">Call (941) 393-1144</a>
         <a href="/#quote" class="btn btn-primary">Request Help Now</a>
       </div>
     </div>

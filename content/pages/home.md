@@ -22,7 +22,7 @@ faqs:
       <p class="lead">We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the first time.</p>
       <p class="hero-services">Core services: <a href="/services/kitchen-remodeling">kitchen remodeling</a>, <a href="/services/bathroom-remodeling">bathroom remodeling</a>, <a href="/services/new-construction">new construction</a>, and <a href="/services/storm-damage-restoration">storm</a>, <a href="/services/water-damage-extraction">water</a> and <a href="/services/fire-damage-restoration">fire</a> restoration.</p>
       <div class="hero-actions">
-        <a href="tel:+19413366255" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'hero_phone_button'})">Call (941) 336-6255</a>
+        <a href="tel:+19413931144" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'hero_phone_button'})">Call (941) 393-1144</a>
         <a href="/#quote" class="btn btn-primary">Get a Free Estimate</a>
       </div>
       <div class="hero-trust">
@@ -191,7 +191,7 @@ faqs:
           <span>Get a free, no-obligation estimate for your home or property.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_reviews'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_reviews'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -272,7 +272,7 @@ faqs:
         <span class="eyebrow-dark">Let's Chat</span>
         <h2>Let's Get in Touch!</h2>
         <p>Contact us today to receive a free estimate for your project. Fill out the form or call now, and we'll be happy to help with scheduling, pricing, or any questions about the process.</p>
-        <a href="tel:+19413366255" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'quote_section_phone_button'})">Call (941) 336-6255</a>
+        <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'quote_section_phone_button'})">Call (941) 393-1144</a>
         <div class="quote-trust">
           <span class="item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"></path><circle cx="12" cy="12" r="9"></circle></svg> Licensed &amp; Insured</span>
           <span class="item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg> Free, No-Obligation Estimates</span>
@@ -353,7 +353,7 @@ faqs:
           <span>Get a free, no-obligation estimate for your home or business.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -440,7 +440,7 @@ faqs:
           <span>Call us directly or request a quote and we'll get back to you fast.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_2'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_2'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -473,7 +473,7 @@ faqs:
       <h2>Ready to Start Your Project?</h2>
       <p>Call Tropical Bay Builders today or request a free estimate online. We're happy to answer questions about scheduling, pricing, or your specific project.</p>
       <div class="cta-actions">
-        <a href="tel:+19413366255" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'cta_band_phone_button'})">Call (941) 336-6255</a>
+        <a href="tel:+19413931144" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'cta_band_phone_button'})">Call (941) 393-1144</a>
         <a href="/#quote" class="btn btn-primary">Request a Free Estimate</a>
       </div>
     </div>
@@ -544,7 +544,7 @@ faqs:
           <span>We're happy to talk through your project before you book.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_3'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_3'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -568,4 +568,4 @@ We regularly work in:
 - [Boca Grande](/locations/boca-grande)
 - North Port and Sanibel Island
 
-If your home or business is in one of these areas, call (941) 336-6255 for a free, no-obligation estimate. See all [service areas](/locations).
+If your home or business is in one of these areas, call (941) 393-1144 for a free, no-obligation estimate. See all [service areas](/locations).

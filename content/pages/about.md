@@ -35,7 +35,7 @@ path: "/about"
           <span>Reach out below or give us a call - we'll get back to you quickly.</span>
         </div>
         <div class="cta-strip-actions">
-          <a href="tel:+19413366255" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'about_strip_phone'})">Call Now</a>
+          <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'about_strip_phone'})">Call Now</a>
           <a href="/#quote" class="btn btn-primary">Free Estimate</a>
         </div>
       </div>
@@ -58,7 +58,7 @@ path: "/about"
       <aside class="quick-facts">
         <h3>Contact Info</h3>
         <dl>
-          <div class="fact"><div class="fact-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14876f" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg></div><div><dt>Phone</dt><dd><a href="tel:+19413366255" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'about_page_phone_link'})">(941) 336-6255</a></dd></div></div>
+          <div class="fact"><div class="fact-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14876f" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg></div><div><dt>Phone</dt><dd><a href="tel:+19413931144" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'about_page_phone_link'})">(941) 393-1144</a></dd></div></div>
           <div class="fact"><div class="fact-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14876f" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"></rect><path d="M22 6l-10 7L2 6"></path></svg></div><div><dt>Email</dt><dd><a href="mailto:contact@tropicalbaybuilders.com">contact@tropicalbaybuilders.com</a></dd></div></div>
           <div class="fact"><div class="fact-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14876f" stroke-width="2"><path d="M21 10c0 6-9 12-9 12s-9-6-9-12a9 9 0 1 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg></div><div><dt>Based In</dt><dd>North Port, FL</dd></div></div>
           <div class="fact"><div class="fact-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#14876f" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><path d="M12 7v5l3 3"></path></svg></div><div><dt>Hours</dt><dd>24/7</dd></div></div>
