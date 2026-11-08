@@ -205,11 +205,8 @@ faqs:
     </div>
     <div class="quote-layout">
       <div class="quote-card">
-        <form class="quote-form" name="estimate-request" method="POST" action="https://formsubmit.co/contact@tropicalbaybuilders.com">
-          <input type="hidden" name="_subject" value="New Free Estimate Request - Tropical Bay Builders">
-          <input type="hidden" name="_next" value="https://tropicalbaybuilders.com/thank-you">
-          <input type="hidden" name="_captcha" value="false">
-          <input type="hidden" name="_template" value="table">
+        <form class="quote-form" name="estimate-request" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="_honey">
+          <input type="hidden" name="form-name" value="estimate-request">
           <p style="display:none"><label>Leave this field blank: <input name="_honey"></label></p>
           <span class="field-label" style="margin-top:0;">Full Name *</span>
           <div class="field-row">
