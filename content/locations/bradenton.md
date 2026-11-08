@@ -26,7 +26,7 @@ faqs:
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / Bradenton General Contractor</p>
     <h1>Licensed General Contractor Serving <em>Bradenton</em></h1>
-    <p>Tropical Bay Builders is a licensed, insured and locally owned general contractor based in North Port, serving Bradenton homeowners and businesses with remodeling, new construction, exterior work and restoration.</p>
+    <p>Tropical Bay Builders, a DBA of A Home Builders LLC (Certified General Contractor CGC1532614), is a licensed, insured and locally owned general contractor based in North Port, serving Bradenton homeowners and businesses with remodeling, new construction, exterior work and restoration.</p>
     <div class="hero-actions">
       <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'location_page_phone_button'})">Call (941) 393-1144</a>
       <a href="/#quote" class="btn btn-outline-dark">Request a Free Estimate</a>
@@ -103,7 +103,7 @@ faqs:
 
 ## General Contracting Services in Bradenton
 
-Tropical Bay Builders is a licensed and insured general contractor, and one crew handles remodeling, construction and restoration for Bradenton homes and businesses.
+Tropical Bay Builders, a DBA of A Home Builders LLC (Certified General Contractor CGC1532614), is a licensed and insured general contractor, and one crew handles remodeling, construction and restoration for Bradenton homes and businesses.
 
 - **Remodeling:** [kitchen remodeling](/services/kitchen-remodeling) and [bathroom remodeling](/services/bathroom-remodeling), with licensed plumbing and electrical work included in bathroom projects.
 - **New construction:** [new construction](/services/new-construction), with permitting handled as part of the project.

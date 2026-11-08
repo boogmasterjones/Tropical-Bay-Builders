@@ -19,7 +19,7 @@ faqs:
   - question: "Do you offer free estimates in Port Charlotte?"
     answer: "Yes. Estimates are free and no-obligation. Call (941) 393-1144, 24/7."
   - question: "Are you licensed and insured?"
-    answer: "Yes. Tropical Bay Builders is a licensed and insured general contractor, locally owned and based in North Port, FL."
+    answer: "Yes. Tropical Bay Builders, a DBA of A Home Builders LLC (Certified General Contractor CGC1532614), is a licensed and insured general contractor, locally owned and based in North Port, FL."
   - question: "Do you handle permits for new homes and additions?"
     answer: "Yes. Permitting is handled as part of our new construction and addition projects, so you don't have to manage it separately."
 ---

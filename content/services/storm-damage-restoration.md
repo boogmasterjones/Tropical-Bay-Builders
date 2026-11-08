@@ -83,7 +83,7 @@ faqs:
       <h2>General Contracting Experience, Applied to Restoration</h2>
     </div>
     <div class="grid-3">
-      <div class="card"><h3>Licensed &amp; Insured</h3><p>Work with confidence knowing our crew is licensed and insured for restoration and rebuild work.</p></div>
+      <div class="card"><h3>Licensed &amp; Insured</h3><p>Licensed work is done under A Home Builders LLC, Certified General Contractor CGC1532614 (Tropical Bay Builders is its DBA), and we're insured for restoration and rebuild work.</p></div>
       <div class="card"><h3>One Accountable Crew</h3><p>Once the damage is assessed and stabilized, we're also the ones who can rebuild it right - no handoff to a separate contractor.</p></div>
       <div class="card"><h3>Insurance Documentation</h3><p>We provide clear damage documentation to support your claim, though the claim itself is handled between you and your insurer.</p></div>
     </div>

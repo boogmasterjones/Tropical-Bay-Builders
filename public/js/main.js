@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', function () {
     },
     insurance: {
       label: 'Licensed & Insured?',
-      response: "Yes — Tropical Bay Builders is licensed and insured, and we're happy to provide proof before any job starts." + BOOKING_NUDGE,
+      response: "Yes. Tropical Bay Builders is a DBA of A Home Builders LLC, Certified General Contractor CGC1532614, and we're insured. We're happy to provide proof before any job starts." + BOOKING_NUDGE,
       chips: [{ label: 'Get a Free Estimate', action: 'quote' }, { label: 'Why That Matters', action: 'link', url: '/blog/how-to-hire-a-good-general-contractor-in-southwest-florida.html' }]
     },
     callback: {

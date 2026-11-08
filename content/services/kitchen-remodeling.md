@@ -76,7 +76,7 @@ faqs:
       <h2>A Careful, Local Approach</h2>
     </div>
     <div class="grid-3">
-      <div class="card"><h3>Licensed &amp; Insured</h3><p>Work with confidence knowing our crew is licensed and insured for residential and commercial work.</p></div>
+      <div class="card"><h3>Licensed &amp; Insured</h3><p>Licensed work is done under A Home Builders LLC, Certified General Contractor CGC1532614 (Tropical Bay Builders is its DBA), and we're insured for residential and commercial work.</p></div>
       <div class="card"><h3>Free, Honest Estimates</h3><p>No pressure, no gimmicks - just a clear price based on your property's actual scope.</p></div>
       <div class="card"><h3>Questions After the Job?</h3><p>If something does not look right after we leave, tell us and we will take a look.</p></div>
     </div>

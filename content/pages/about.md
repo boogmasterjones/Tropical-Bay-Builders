@@ -2,7 +2,7 @@
 title: "About & Contact | Tropical Bay Builders"
 description: "Learn about Tropical Bay Builders, a licensed general contractor in North Port, FL, and get in touch for a free estimate."
 heading: "About Tropical Bay Builders"
-subheading: "Tropical Bay Builders is a licensed and insured general contractor based in North Port, FL, with more than 10 years of combined experience in remodeling, new construction, and disaster restoration along the Gulf Coast from Bradenton to Sanibel Island."
+subheading: "Tropical Bay Builders, a DBA of A Home Builders LLC (Certified General Contractor CGC1532614), is a licensed and insured general contractor based in North Port, FL, with more than 10 years of combined experience in remodeling, new construction, and disaster restoration along the Gulf Coast from Bradenton to Sanibel Island."
 path: "/about"
 ---
 
@@ -10,7 +10,7 @@ path: "/about"
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / About &amp; Contact</p>
     <h1>About <em>Tropical Bay Builders</em></h1>
-    <p>Tropical Bay Builders is a licensed and insured general contractor based in North Port, FL, with more than 10 years of combined experience in remodeling, new construction, and disaster restoration along the Gulf Coast from Bradenton to Sanibel Island.</p>
+    <p>Tropical Bay Builders, a DBA of A Home Builders LLC (Certified General Contractor CGC1532614), is a licensed and insured general contractor based in North Port, FL, with more than 10 years of combined experience in remodeling, new construction, and disaster restoration along the Gulf Coast from Bradenton to Sanibel Island.</p>
   </div>
 </div>
 <section>
@@ -22,7 +22,7 @@ path: "/about"
         <p>Based in North Port and serving the Gulf Coast from Bradenton and Sarasota down through Fort Myers toward Sanibel Island, we've built our reputation on straightforward estimates, quality craftsmanship, and showing up when we say we will. With a 5.0-star rating across 42 reviews, that reputation is something we work to earn on every single project.</p>
         <h3>What Sets Us Apart</h3>
         <ul class="icon-list">
-          <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Licensed &amp; insured general contractor</li>
+          <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Licensed &amp; insured general contractor (A Home Builders LLC, CGC1532614)</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Free, honest estimates with no pressure</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> One crew for remodeling, construction &amp; restoration</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> 5.0-star rating across 42 reviews</li>
