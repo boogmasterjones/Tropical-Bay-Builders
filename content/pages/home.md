@@ -64,62 +64,64 @@ faqs:
 <section class="section-green">
   <div class="container">
     <div class="section-head">
-      <span class="eyebrow-dark">Our Services</span>
-      <h2>What We Build &amp; Restore</h2>
-      <p>The remodeling, construction, and restoration services we offer across North Port and Southwest Florida.</p>
+      <span class="eyebrow-dark">Our Work</span>
+      <h2>Real Projects, Real Results</h2>
+      <p>Real photos from our own remodeling jobs: bathrooms, showers, tile and finishes.</p>
     </div>
     <div class="work-gallery">
       <div class="work-track">
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="https://images.unsplash.com/photo-1600489000022-c2086d79f9d4?q=80&amp;w=800&amp;auto=format&amp;fit=crop" alt="Remodeled kitchen with custom cabinetry and island" loading="lazy" width="480" height="360">
-          </div>
-          <div class="work-slide-caption">
-            <strong>Kitchen Remodeling</strong>
-          </div>
-        </div>
-        <div class="work-slide">
-          <div class="work-slide-media">
-            <img src="https://images.unsplash.com/photo-1620626011761-996317b8d101?q=80&amp;w=800&amp;auto=format&amp;fit=crop" alt="Remodeled bathroom with walk-in shower" loading="lazy" width="480" height="360">
+            <img src="/images/work/bathroom-freestanding-tub-walk-in-shower.webp" alt="Remodeled bathroom with a freestanding tub, walk-in shower and arched window" loading="lazy" width="960" height="720">
           </div>
           <div class="work-slide-caption">
             <strong>Bathroom Remodeling</strong>
-            <span>Walk-in shower conversion</span>
+            <span>Freestanding tub and walk-in shower</span>
           </div>
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="https://images.unsplash.com/photo-1541976590-713941681591?q=80&amp;w=800&amp;auto=format&amp;fit=crop" alt="New home construction site framing" loading="lazy" width="480" height="360">
+            <img src="/images/work/frameless-glass-walk-in-shower.webp" alt="Walk-in shower with frameless glass and patterned accent tile" loading="lazy" width="960" height="720">
           </div>
           <div class="work-slide-caption">
-            <strong>New Construction</strong>
+            <strong>Walk-In Showers</strong>
+            <span>Frameless glass and patterned tile</span>
           </div>
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="https://images.unsplash.com/photo-1635424825057-7fb6dcd651ef?q=80&amp;w=800&amp;auto=format&amp;fit=crop" alt="Roofer fastening shingles during a roof replacement" loading="lazy" width="480" height="360">
+            <img src="/images/work/double-vanity-lighted-mirror.webp" alt="White double vanity with black fixtures and a lighted mirror" loading="lazy" width="960" height="720">
           </div>
           <div class="work-slide-caption">
-            <strong>Roofing</strong>
-            <span>Full roof replacement</span>
+            <strong>Custom Vanities</strong>
+            <span>Double vanity with lighted mirror</span>
           </div>
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="https://images.unsplash.com/photo-1780838446281-9394772d07a8?q=80&amp;w=800&amp;auto=format&amp;fit=crop" alt="Finished paver patio with stone retaining wall" loading="lazy" width="480" height="360">
+            <img src="/images/work/freestanding-soaking-tub.webp" alt="Black and white freestanding soaking tub with wall-mounted faucet" loading="lazy" width="960" height="720">
           </div>
           <div class="work-slide-caption">
-            <strong>Driveways &amp; Patios</strong>
-            <span>Paver patio installation</span>
+            <strong>Fixtures &amp; Finishes</strong>
+            <span>Freestanding soaking tub</span>
           </div>
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="https://images.unsplash.com/photo-1772305595483-6b058aff40f9?q=80&amp;w=800&amp;auto=format&amp;fit=crop" alt="Crew rolling epoxy coating onto a concrete floor" loading="lazy" width="480" height="360">
+            <img src="/images/work/tiled-shower-built-in-bench.webp" alt="Large-format tiled shower with a built-in bench and niche" loading="lazy" width="480" height="360">
           </div>
           <div class="work-slide-caption">
-            <strong>Epoxy Flooring</strong>
-            <span>Floor coating application</span>
+            <strong>Tile Work</strong>
+            <span>Tiled shower with built-in bench</span>
+          </div>
+        </div>
+        <div class="work-slide">
+          <div class="work-slide-media">
+            <img src="/images/work/floor-to-ceiling-tile-tub-surround.webp" alt="Bathroom with floor-to-ceiling marble-look tile and a new tub" loading="lazy" width="480" height="360">
+          </div>
+          <div class="work-slide-caption">
+            <strong>Tub &amp; Shower Remodels</strong>
+            <span>Floor-to-ceiling tile surround</span>
           </div>
         </div>
       </div>
