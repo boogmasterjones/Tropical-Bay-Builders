@@ -50,6 +50,6 @@ This is easy to miss during design. Most homeowners don't think about power unti
 
 ### A Final Word on Planning Ahead
 
-Here are the features again. Materials that resist moisture. Good venting. Impact-rated glass. Countertops with no pores. Enough electrical power. Each one costs more to build in up front than to add later. It's also far less of a hassle than fixing each issue on its own. Otherwise you deal with them one by one as they show up over the years. Some kitchens are built from a plan made for the whole country. A kitchen planned for Florida's real climate from day one tends to hold up better. It needs less rework, too.
+Here are the features again. Materials that resist moisture. Good venting. Impact-rated glass. Countertops with no pores. Enough electrical power. Each one costs less to build in up front than to add later. It's also far less of a hassle than fixing each issue on its own. Otherwise you deal with them one by one as they show up over the years. Some kitchens are built from a plan made for the whole country. A kitchen planned for Florida's real climate from day one tends to hold up better. It needs less rework, too.
 
 [← Back to all articles](/blog)
