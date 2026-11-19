@@ -1,8 +1,8 @@
 ---
 title: "About & Contact | Tropical Bay Builders"
-description: "Learn about Tropical Bay Builders, a licensed general contractor in North Port, FL, and get in touch for a free estimate."
+description: "Learn about Tropical Bay Builders, a licensed general contractor in North Port, FL. Get in touch for a free estimate."
 heading: "About Tropical Bay Builders"
-subheading: "Tropical Bay Builders, a DBA of A Home Builders LLC (Certified General Contractor CGC1532614), is a licensed and insured general contractor based in North Port, FL, with more than 10 years of combined experience in remodeling, new construction, and disaster restoration along the Gulf Coast from Bradenton to Sanibel Island."
+subheading: "Tropical Bay Builders is a DBA of A Home Builders LLC (Certified General Contractor CGC1532614). We are a licensed and insured general contractor based in North Port, FL. We have more than 10 years of combined experience. That covers remodels, new builds and disaster repair. We work along the Gulf Coast from Bradenton to Sanibel Island."
 path: "/about"
 ---
 
@@ -10,7 +10,7 @@ path: "/about"
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / About &amp; Contact</p>
     <h1>About <em>Tropical Bay Builders</em></h1>
-    <p>Tropical Bay Builders, a DBA of A Home Builders LLC (Certified General Contractor CGC1532614), is a licensed and insured general contractor based in North Port, FL, with more than 10 years of combined experience in remodeling, new construction, and disaster restoration along the Gulf Coast from Bradenton to Sanibel Island.</p>
+    <p>Tropical Bay Builders is a DBA of A Home Builders LLC (Certified General Contractor CGC1532614). We are a licensed and insured general contractor based in North Port, FL. We have more than 10 years of combined experience. That covers remodels, new builds and disaster repair. We work along the Gulf Coast from Bradenton to Sanibel Island.</p>
   </div>
 </div>
 <section>
@@ -18,13 +18,13 @@ path: "/about"
     <div class="content-layout">
       <div class="content-main">
         <h2>Our Story</h2>
-        <p>Tropical Bay Builders was built around a simple idea: homeowners shouldn't have to juggle multiple contractors, subcontractors, and restoration specialists to get one project done right. Whether it's a kitchen remodel, a new addition, or storm damage repair, our crew handles the project from first estimate to final walkthrough - one accountable team, start to finish.</p>
-        <p>Based in North Port and serving the Gulf Coast from Bradenton and Sarasota down through Fort Myers toward Sanibel Island, we've built our reputation on straightforward estimates, quality craftsmanship, and showing up when we say we will. With a 5.0-star rating across 42 reviews, that reputation is something we work to earn on every single project.</p>
+        <p>We built our company on one simple idea. Homeowners should not have to juggle a bunch of contractors, subs and repair experts. They should get one job done right. It might be a kitchen remodel, a new addition or storm damage repair. Our crew handles it from the first estimate to the final walkthrough. One team owns it, start to finish.</p>
+        <p>We are based in North Port. We serve the Gulf Coast from Bradenton and Sarasota down through Fort Myers toward Sanibel Island. Our good name comes from clear estimates and quality work. It also comes from showing up when we say we will. We have a 5.0-star rating across 42 reviews. We work to earn that on every single job.</p>
         <h3>What Sets Us Apart</h3>
         <ul class="icon-list">
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Licensed &amp; insured general contractor (A Home Builders LLC, CGC1532614)</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Free, honest estimates with no pressure</li>
-          <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> One crew for remodeling, construction &amp; restoration</li>
+          <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> One crew to remodel, build &amp; restore</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> 5.0-star rating across 42 reviews</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Serving North Port &amp; Southwest Florida for 10+ years</li>
         </ul>
@@ -32,7 +32,7 @@ path: "/about"
       <div class="cta-strip">
         <div class="cta-strip-text">
           <strong>Ready to start your project?</strong>
-          <span>Reach out below or give us a call - we'll get back to you quickly.</span>
+          <span>Reach out below or give us a call. We'll get back to you fast.</span>
         </div>
         <div class="cta-strip-actions">
           <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'about_strip_phone'})">Call Now</a>
@@ -41,7 +41,7 @@ path: "/about"
       </div>
     </div>
         <h2 id="contact">Contact Us</h2>
-        <p>Have a project in mind, or a question before you commit? Call, email, or send us a message using the form below and we'll follow up as soon as we can.</p>
+        <p>Do you have a job in mind? Or a question before you sign on? Call, email or send us a note with the form below. We'll get back to you as soon as we can.</p>
         <form name="contact" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="_honey" class="quote-form" data-progressive-fields>
           <input type="hidden" name="form-name" value="contact">
           <p style="display:none"><label>Leave this field blank: <input name="_honey"></label></p>

@@ -1,8 +1,8 @@
 ---
 title: "Disaster Restoration Services | Tropical Bay Builders"
-description: "Storm damage, water extraction, fire restoration, and storm mitigation in North Port, FL and Southwest Florida. Licensed general contractor, one crew from assessment to rebuild."
+description: "Storm damage, water removal, fire repair and storm mitigation in North Port, FL and Southwest Florida. Licensed general contractor. One crew from first look to rebuild."
 heading: "Disaster Restoration in North Port & Southwest Florida"
-subheading: "Florida weather doesn't wait, and neither should your repairs. Tropical Bay Builders handles storm damage, water extraction, fire restoration, and storm mitigation upgrades as a single accountable contractor - from initial assessment through full rebuild."
+subheading: "In Florida, the weather doesn't wait. Your repairs shouldn't either. We handle storm damage, water removal, fire repair and storm mitigation upgrades. One contractor owns the whole job. We go from the first look to the full rebuild."
 path: "/restoration"
 ---
 
@@ -10,7 +10,7 @@ path: "/restoration"
   <div class="container">
     <p class="breadcrumb"><a href="/">Home</a> / Disaster Restoration</p>
     <h1>Disaster Restoration in <em>North Port</em> &amp; Southwest Florida</h1>
-    <p>Florida weather doesn't wait, and neither should your repairs. Tropical Bay Builders handles storm damage, water extraction, fire restoration, and storm mitigation upgrades as a single accountable contractor - from initial assessment through full rebuild.</p>
+    <p>In Florida, the weather doesn't wait. Your repairs shouldn't either. We handle storm damage, water removal, fire repair and storm mitigation upgrades. One contractor owns the whole job. We go from the first look to the full rebuild.</p>
     <div class="hero-actions">
       <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'restoration_hub_phone_button'})">Call (941) 393-1144</a>
       <a href="/#quote" class="btn btn-outline-dark">Request Help Now</a>
@@ -20,25 +20,25 @@ path: "/restoration"
 <section>
   <div class="container">
     <div class="section-head">
-      <h2>Restoration Services</h2>
-      <p>Click any service below for full details on what's involved and what to expect.</p>
+      <h2>Our Repair Services</h2>
+      <p>Click any service below. You'll see what the work involves and what to expect.</p>
     </div>
     <div class="grid-2">
         <a href="/services/storm-damage-restoration" class="work-card">
           <img src="https://images.unsplash.com/photo-1600585152220-90363fe7e115?q=80&amp;w=900&amp;auto=format&amp;fit=crop" alt="Storm Damage Restoration in North Port FL" loading="lazy">
-          <div class="work-card-body"><h3>Storm Damage Restoration</h3><p>Roof, siding, and structural repair after high winds and tropical storms.</p></div>
+          <div class="work-card-body"><h3>Storm Damage Restoration</h3><p>We fix roofs, siding and frames after high winds and tropical storms.</p></div>
         </a>
         <a href="/services/water-damage-extraction" class="work-card">
           <img src="https://images.unsplash.com/photo-1585421514738-01798e348b17?q=80&amp;w=900&amp;auto=format&amp;fit=crop" alt="Water Damage &amp; Extraction in North Port FL" loading="lazy">
-          <div class="work-card-body"><h3>Water Damage &amp; Extraction</h3><p>Fast water extraction and drying to limit damage and prevent mold growth.</p></div>
+          <div class="work-card-body"><h3>Water Damage &amp; Extraction</h3><p>We pull out water fast and dry things out. This limits damage and stops mold from growing.</p></div>
         </a>
         <a href="/services/fire-damage-restoration" class="work-card">
           <img src="https://images.unsplash.com/photo-1621905251918-48416bd8575a?q=80&amp;w=900&amp;auto=format&amp;fit=crop" alt="Fire Damage Restoration in North Port FL" loading="lazy">
-          <div class="work-card-body"><h3>Fire Damage Restoration</h3><p>Smoke, soot, and structural fire damage repair from assessment through rebuild.</p></div>
+          <div class="work-card-body"><h3>Fire Damage Restoration</h3><p>We fix smoke, soot and fire damage to the frame. We go from the first look to the rebuild.</p></div>
         </a>
         <a href="/services/storm-mitigation" class="work-card">
           <img src="https://images.unsplash.com/photo-1523217582562-09d0def993a6?q=80&amp;w=900&amp;auto=format&amp;fit=crop" alt="Storm Mitigation in North Port FL" loading="lazy">
-          <div class="work-card-body"><h3>Storm Mitigation</h3><p>Impact windows, roof strapping, and wind mitigation upgrades before the next storm hits.</p></div>
+          <div class="work-card-body"><h3>Storm Mitigation</h3><p>Impact windows, roof straps and wind mitigation upgrades. Get them done before the next storm hits.</p></div>
         </a>
     </div>
   </div>
@@ -58,7 +58,7 @@ path: "/restoration"
 <section class="section-alt">
   <div class="container content-section" style="border-top:none;">
     <h2>Why Choose One Contractor for Restoration and Rebuild</h2>
-    <p>A lot of restoration companies stop at drying out a property or tarping a roof, leaving homeowners to find a separate contractor for the actual rebuild - new drywall, flooring, cabinetry, or structural repair. That handoff is where a lot of restoration projects lose time, and where miscommunication between two companies can leave gaps in the final result.</p>
-    <p>Tropical Bay Builders handles both halves as one job. The same crew that assesses and stabilizes the damage carries the project through to a finished, livable space, which means fewer scheduling gaps, one point of contact, and a final result that's built to the same standard as our remodeling and new construction work.</p>
+    <p>Many repair companies stop once they dry out a home or tarp a roof. Then the homeowner has to find another contractor for the real rebuild. That means new drywall, floors, cabinets or frame repair. That handoff is where a lot of jobs lose time. Two companies can also mix up what the other said. That can leave gaps in the final result.</p>
+    <p>We handle both halves as one job. The same crew checks the damage and makes it safe. Then that crew carries the job through to a finished space you can live in. That means fewer gaps in the schedule. You have one person to call. The final result is built to the same standard as our remodels and new builds.</p>
   </div>
 </section>

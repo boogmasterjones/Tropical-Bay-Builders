@@ -1,17 +1,17 @@
 ---
 title: "Port Charlotte General Contractor | Tropical Bay Builders"
-description: "5-star rated on Google, locally owned, licensed and insured. Kitchen and bath remodels, new construction and storm restoration in Port Charlotte. Free estimates."
+description: "5-star rated on Google. Locally owned, licensed and insured. Kitchen and bath remodels, new builds and storm repair in Port Charlotte. Call for a free estimate."
 heading: "Remodeling & Construction in North Port, FL"
-subheading: "We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the…"
+subheading: "We're Tropical Bay Builders. We are a locally owned general contractor based in North Port. We serve the Gulf Coast from Bradenton down to Sanibel Island."
 path: "/"
 bodyClass: "home"
 faqs:
   - question: "How much does a remodel or repair cost?"
-    answer: "It depends on scope, materials, and access, which is why we give every property a straightforward free estimate rather than a flat rate - a bathroom refresh and a full kitchen gut are not the same job."
+    answer: "It depends on the size of the job and the materials. It also depends on how easy the site is to reach. That's why we give each home a clear, free estimate. We don't use a flat rate. A small bathroom refresh and a full kitchen gut are not the same job."
   - question: "Do you serve areas outside North Port?"
-    answer: "Yes - we regularly serve Port Charlotte, Punta Gorda, Venice, Englewood, Sarasota, Bradenton, Fort Myers, and Boca Grande, FL."
+    answer: "Yes. We often work in Port Charlotte, Punta Gorda, Venice, Englewood, Sarasota, Bradenton, Fort Myers and Boca Grande, FL."
   - question: "Can you handle both remodeling and storm damage restoration?"
-    answer: "Yes. We're a full general contractor, so we handle planned remodeling and new construction as well as storm, water, and fire damage restoration, with the same crew from start to finish."
+    answer: "Yes. We're a full general contractor. We do planned remodels and new builds. We also fix storm, water and fire damage. The same crew works with you from start to finish."
 ---
 
 <section class="hero">
@@ -19,15 +19,15 @@ faqs:
     <div>
       <span class="eyebrow">North Port &amp; Southwest Florida</span>
       <h1>Licensed General Contractor Serving <em>North Port</em>, Port Charlotte &amp; Southwest Florida</h1>
-      <p class="lead">We're Tropical Bay Builders, a locally owned general contractor based in North Port and serving the Gulf Coast from Bradenton down to Sanibel Island. Kitchen and bathroom remodeling, new construction, and full exterior upgrades - plus storm, water, and fire damage restoration - done right the first time.</p>
-      <p class="hero-services">Core services: <a href="/services/kitchen-remodeling">kitchen remodeling</a>, <a href="/services/bathroom-remodeling">bathroom remodeling</a>, <a href="/services/new-construction">new construction</a>, and <a href="/services/storm-damage-restoration">storm</a>, <a href="/services/water-damage-extraction">water</a> and <a href="/services/fire-damage-restoration">fire</a> restoration.</p>
+      <p class="lead">We're Tropical Bay Builders. We are a locally owned general contractor based in North Port. We serve the Gulf Coast from Bradenton down to Sanibel Island. We redo kitchens and bathrooms, build new, and do big outside upgrades. We also fix storm, water and fire damage. We do it right the first time.</p>
+      <p class="hero-services">What we do most: <a href="/services/kitchen-remodeling">kitchen remodeling</a>, <a href="/services/bathroom-remodeling">bathroom remodeling</a>, <a href="/services/new-construction">new construction</a>, and <a href="/services/storm-damage-restoration">storm</a>, <a href="/services/water-damage-extraction">water</a> and <a href="/services/fire-damage-restoration">fire</a> repair.</p>
       <div class="hero-actions">
         <a href="tel:+19413931144" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'hero_phone_button'})">Call (941) 393-1144</a>
         <a href="/#quote" class="btn btn-primary">Get a Free Estimate</a>
       </div>
       <div class="hero-trust">
         <span class="item"><span class="check-mark">✓</span> Licensed &amp; Insured</span>
-        <span class="item"><span class="check-mark">✓</span> Free, No-Obligation Estimates</span>
+        <span class="item"><span class="check-mark">✓</span> Free Quotes, No Strings</span>
         <span class="item"><span class="check-mark">✓</span> 10+ Years in Business</span>
         <span class="item stars-inline">
           <span class="stars" aria-label="5 star rating"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg></span>
@@ -44,18 +44,18 @@ faqs:
         </div>
         <div class="hero-visual-card">
           <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#7fe0c4" stroke-width="1.8"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6"></path></svg>
-          <strong>New Construction</strong>
-          <span>Ground-up builds</span>
+          <strong>New Builds</strong>
+          <span>From the ground up</span>
         </div>
         <div class="hero-visual-card">
           <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#7fe0c4" stroke-width="1.8"><path d="M12 3l2.5 5.5L20 9l-4 4 1 6-5-3-5 3 1-6-4-4 5.5-.5z"></path></svg>
-          <strong>Restoration</strong>
+          <strong>Damage Repair</strong>
           <span>Storm, water &amp; fire</span>
         </div>
         <div class="hero-visual-card">
           <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#7fe0c4" stroke-width="1.8"><circle cx="12" cy="12" r="9"></circle><path d="M9 12l2 2 4-4"></path></svg>
-          <strong>Free Estimates</strong>
-          <span>No obligation, no pressure</span>
+          <strong>Free Quotes</strong>
+          <span>No strings, no pressure</span>
         </div>
       </div>
     </div>
@@ -66,49 +66,49 @@ faqs:
     <div class="section-head">
       <span class="eyebrow-dark">Our Work</span>
       <h2>Real Projects, Real Results</h2>
-      <p>Real photos from our own remodeling jobs: bathrooms, showers, tile and finishes.</p>
+      <p>These are real photos of our own jobs. You'll see baths, showers, tile and more.</p>
     </div>
     <div class="work-gallery">
       <div class="work-track">
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="/images/work/bathroom-freestanding-tub-walk-in-shower.webp" alt="Remodeled bathroom with a freestanding tub, walk-in shower and arched window" loading="lazy" width="960" height="720">
+            <img src="/images/work/bathroom-freestanding-tub-walk-in-shower.webp" alt="New bathroom with a stand-alone tub, walk-in shower and arched window" loading="lazy" width="960" height="720">
           </div>
           <div class="work-slide-caption">
-            <strong>Bathroom Remodeling</strong>
-            <span>Freestanding tub and walk-in shower</span>
+            <strong>Bath Remodels</strong>
+            <span>Stand-alone tub and walk-in shower</span>
           </div>
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="/images/work/frameless-glass-walk-in-shower.webp" alt="Walk-in shower with frameless glass and patterned accent tile" loading="lazy" width="960" height="720">
+            <img src="/images/work/frameless-glass-walk-in-shower.webp" alt="Walk-in shower with glass that has no frame and bold patterned tile" loading="lazy" width="960" height="720">
           </div>
           <div class="work-slide-caption">
             <strong>Walk-In Showers</strong>
-            <span>Frameless glass and patterned tile</span>
+            <span>Glass with no frame and bold tile</span>
           </div>
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="/images/work/double-vanity-lighted-mirror.webp" alt="White double vanity with black fixtures and a lighted mirror" loading="lazy" width="960" height="720">
+            <img src="/images/work/double-vanity-lighted-mirror.webp" alt="White two-sink vanity with black taps and a lit mirror" loading="lazy" width="960" height="720">
           </div>
           <div class="work-slide-caption">
             <strong>Custom Vanities</strong>
-            <span>Double vanity with lighted mirror</span>
+            <span>Two sinks and a lit mirror</span>
           </div>
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="/images/work/freestanding-soaking-tub.webp" alt="Black and white freestanding soaking tub with wall-mounted faucet" loading="lazy" width="960" height="720">
+            <img src="/images/work/freestanding-soaking-tub.webp" alt="Black and white stand-alone soaking tub with a tap on the wall" loading="lazy" width="960" height="720">
           </div>
           <div class="work-slide-caption">
-            <strong>Fixtures &amp; Finishes</strong>
-            <span>Freestanding soaking tub</span>
+            <strong>Tubs &amp; Taps</strong>
+            <span>Stand-alone soaking tub</span>
           </div>
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="/images/work/tiled-shower-built-in-bench.webp" alt="Large-format tiled shower with a built-in bench and niche" loading="lazy" width="480" height="360">
+            <img src="/images/work/tiled-shower-built-in-bench.webp" alt="Shower with big tiles, a built-in bench and a wall shelf" loading="lazy" width="480" height="360">
           </div>
           <div class="work-slide-caption">
             <strong>Tile Work</strong>
@@ -117,11 +117,11 @@ faqs:
         </div>
         <div class="work-slide">
           <div class="work-slide-media">
-            <img src="/images/work/floor-to-ceiling-tile-tub-surround.webp" alt="Bathroom with floor-to-ceiling marble-look tile and a new tub" loading="lazy" width="480" height="360">
+            <img src="/images/work/floor-to-ceiling-tile-tub-surround.webp" alt="Bathroom with marble-look tile from floor to top and a new tub" loading="lazy" width="480" height="360">
           </div>
           <div class="work-slide-caption">
-            <strong>Tub &amp; Shower Remodels</strong>
-            <span>Floor-to-ceiling tile surround</span>
+            <strong>Tub &amp; Shower Redos</strong>
+            <span>Tile from the floor to the top</span>
           </div>
         </div>
       </div>
@@ -136,8 +136,8 @@ faqs:
   <div class="container">
     <div class="section-head">
       <span class="eyebrow-dark">Reviews</span>
-      <h2>What Our Customers Are Saying</h2>
-      <p>5-star rated on Google across 42 reviews. Real feedback from our Google Business Profile.</p>
+      <h2>What People Say About Us</h2>
+      <p>5-star rated on Google, with 42 reviews. These are real reviews from our Google page.</p>
     </div>
     <div class="reviews-grid">
       <div class="review-card">
@@ -189,8 +189,8 @@ faqs:
     <div class="cta-strip-wrap" style="padding-bottom:0; margin:32px 0;">
       <div class="cta-strip">
         <div class="cta-strip-text">
-          <strong>Ready to Join Our Happy Customers?</strong>
-          <span>Get a free, no-obligation estimate for your home or property.</span>
+          <strong>Ready to Join Our Happy Clients?</strong>
+          <span>Get a free quote for your home or property. No strings.</span>
         </div>
         <div class="cta-strip-actions">
           <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_reviews'})">Call Now</a>
@@ -203,7 +203,7 @@ faqs:
   <div class="container">
     <div class="section-head">
       <span class="eyebrow-dark">Free Estimate</span>
-      <h2>Request A Quote Today!</h2>
+      <h2>Ask for a Quote Today!</h2>
     </div>
     <div class="quote-layout">
       <div class="quote-card">
@@ -270,11 +270,11 @@ faqs:
       <div class="quote-chat">
         <span class="eyebrow-dark">Let's Chat</span>
         <h2>Let's Get in Touch!</h2>
-        <p>Contact us today to receive a free estimate for your project. Fill out the form or call now, and we'll be happy to help with scheduling, pricing, or any questions about the process.</p>
+        <p>Reach out today for a free quote on your job. Fill out the form or call now. We're glad to help with timing, prices or any other questions.</p>
         <a href="tel:+19413931144" class="btn btn-primary" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'quote_section_phone_button'})">Call (941) 393-1144</a>
         <div class="quote-trust">
           <span class="item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 12l2 2 4-4"></path><circle cx="12" cy="12" r="9"></circle></svg> Licensed &amp; Insured</span>
-          <span class="item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg> Free, No-Obligation Estimates</span>
+          <span class="item"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></svg> Free Quotes, No Strings</span>
           <span class="item"><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l2.9 6.6 7.1.6-5.4 4.7 1.7 7-6.3-3.8L6 21l1.7-7L2.3 9.2l7.1-.6z"></path></svg> 5.0 Stars, 42 Reviews</span>
         </div>
       </div>
@@ -285,62 +285,62 @@ faqs:
   <div class="container">
     <div class="section-head">
       <span class="eyebrow-dark">What We Do</span>
-      <h2>Remodeling &amp; Construction for North Port Homes &amp; Businesses</h2>
-      <p>From a single-room refresh to full new construction, we bring the same careful, accountable approach to every job.</p>
+      <h2>Remodeling &amp; Building for North Port Homes &amp; Businesses</h2>
+      <p>We can redo one room or build a whole new home. Each job gets the same care. We own our work from start to end.</p>
     </div>
     <div class="grid-3">
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"></rect><line x1="12" y1="3" x2="12" y2="21"></line><line x1="3" y1="12" x2="21" y2="12"></line></svg></div>
         <h3>Kitchen Remodeling</h3>
-        <p>Custom cabinetry, layouts built for real cooking and entertaining, and finishes that hold up to Florida living.</p>
+        <p>Custom cabinets and layouts made for real cooking and hosting. Finishes that hold up to Florida life.</p>
         <a href="/services/kitchen-remodeling" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M4 4h16v16H4zM8 4v16M16 4v16"></path></svg></div>
         <h3>Bathroom Remodeling</h3>
-        <p>Full bathroom renovations - showers, tubs, vanities, and tile - built with proper waterproofing for Florida's humidity.</p>
+        <p>Full bathroom redos with showers, tubs, sinks and tile. We seal each one the right way against Florida's damp air.</p>
         <a href="/services/bathroom-remodeling" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6"></path></svg></div>
         <h3>New Construction</h3>
-        <p>Ground-up builds and major additions managed by one accountable general contractor, permitting included.</p>
+        <p>New builds from the ground up, and big additions. One general contractor runs it all. Permits are included.</p>
         <a href="/services/new-construction" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M4 21V8l8-5 8 5v13M9 21v-7h6v7"></path></svg></div>
         <h3>Exterior Remodel &amp; Additions</h3>
-        <p>Siding, room additions, lanai enclosures, and outdoor living upgrades that boost curb appeal and value.</p>
+        <p>Siding, room additions, closed-in lanais and outdoor living upgrades. They make your home look great from the street and add value.</p>
         <a href="/services/exterior-remodel-additions" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M3 7h18M5 7l1 13h12l1-13M9 11v5M15 11v5"></path></svg></div>
         <h3>Roofing</h3>
-        <p>Roof repairs, full replacements, and storm-ready installations built to handle Southwest Florida's wind and rain.</p>
+        <p>Roof repairs and full new roofs. We build them storm-ready to handle Southwest Florida's wind and rain.</p>
         <a href="/services/roofing" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M4 4v16M20 4v16M4 8h16M4 16h16"></path></svg></div>
         <h3>Fences</h3>
-        <p>Privacy, picket, and pool-code-compliant fencing in vinyl, aluminum, and wood, built for the Florida coast.</p>
+        <p>Privacy fences, picket fences and fences that meet pool code. We use vinyl, aluminum and wood. Each is built for the Florida coast.</p>
         <a href="/services/fences" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M4 4h16v16H4z"></path><path d="M4 12h16M12 4v16"></path></svg></div>
         <h3>Driveways &amp; Patios</h3>
-        <p>Concrete and paver driveways, patios, and outdoor living hardscaping with proper base prep and drainage.</p>
+        <p>Concrete and paver driveways, patios and other outdoor stonework. We prep the base the right way and plan for drainage.</p>
         <a href="/services/driveways-patios" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><rect x="3" y="3" width="18" height="18" rx="2"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><path d="M21 15l-5-5L5 21"></path></svg></div>
         <h3>Epoxy Flooring</h3>
-        <p>Durable, low-maintenance epoxy floor coatings for garages, workshops, patios, and interior floors.</p>
+        <p>Tough epoxy floor coats that are easy to care for. Use them in garages, workshops, patios and floors inside.</p>
         <a href="/services/epoxy-flooring" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M3 3h18v18H3z"></path><path d="M3 9h18M9 21V9"></path></svg></div>
         <h3>Custom Woodworking</h3>
-        <p>Built-ins, custom cabinetry, and trim work finished to a fine standard, built for Florida's humidity.</p>
+        <p>Built-ins, custom cabinets and trim work. Each is finished with care and made for Florida's damp air.</p>
         <a href="/services/woodworking" class="card-link">Learn more →</a>
       </div>
     </div>
@@ -349,7 +349,7 @@ faqs:
       <div class="cta-strip">
         <div class="cta-strip-text">
           <strong>Ready to See the Difference?</strong>
-          <span>Get a free, no-obligation estimate for your home or business.</span>
+          <span>Get a free quote for your home or business. No strings.</span>
         </div>
         <div class="cta-strip-actions">
           <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button'})">Call Now</a>
@@ -361,33 +361,33 @@ faqs:
 <section class="section-green">
   <div class="container">
     <div class="section-head">
-      <span class="eyebrow-dark">Disaster Restoration</span>
+      <span class="eyebrow-dark">Damage Repair</span>
       <h2>Storm, Water &amp; Fire Damage Restoration</h2>
-      <p>Because we're a full general contractor, we can take a property from initial damage through complete rebuild - under one accountable crew, not a handoff between separate companies.</p>
+      <p>We are a full general contractor. So we can take your home from the first damage to the full rebuild. One crew owns the whole job. You are not passed from one company to the next.</p>
     </div>
     <div class="grid-2">
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M12 3l2.5 5.5L20 9l-4 4 1 6-5-3-5 3 1-6-4-4 5.5-.5z"></path></svg></div>
         <h3>Storm Damage Restoration</h3>
-        <p>Roof, structural, and property damage repair after tropical storms and hurricanes.</p>
+        <p>We fix roofs, frames and other damage after tropical storms and hurricanes.</p>
         <a href="/services/storm-damage-restoration" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M12 2.5c3 4 6 8 6 12a6 6 0 1 1-12 0c0-4 3-8 6-12z"></path></svg></div>
         <h3>Water Damage &amp; Extraction</h3>
-        <p>Water extraction and property repair after flooding, storm surge, or plumbing failures.</p>
+        <p>We pull out the water. Then we fix your home after a flood, storm surge or failed plumbing.</p>
         <a href="/services/water-damage-extraction" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M8 3s-3 3-3 7a4 4 0 0 0 8 0c0-1.5-1-2.5-1-2.5s.5 2-1 3c0 0 1-3-1-5.5C9.5 7 10 9 8 3z"></path></svg></div>
         <h3>Fire Damage Restoration</h3>
-        <p>Structural repair and full rebuild after fire damage, from assessment through finished remodeling.</p>
+        <p>We fix the frame and fully rebuild after a fire. We go from the first look to the finished room.</p>
         <a href="/services/fire-damage-restoration" class="card-link">Learn more →</a>
       </div>
       <div class="card">
         <div class="icon-badge"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="#ffffff" stroke-width="2"><path d="M4 4h16v16H4zM4 12h16M12 4v16"></path></svg></div>
         <h3>Storm Mitigation</h3>
-        <p>Preventive upgrades that help protect your property before the next storm season.</p>
+        <p>Upgrades that help guard your home before the next storm season.</p>
         <a href="/services/storm-mitigation" class="card-link">Learn more →</a>
       </div>
     </div>
@@ -423,20 +423,20 @@ faqs:
   <div class="container">
     <div class="section-head">
       <span class="eyebrow-dark">How It Works</span>
-      <h2>Booking a Project Is Simple</h2>
+      <h2>Booking a Job Is Easy</h2>
     </div>
     <div class="steps">
-      <div class="step"><div class="num">1</div><h3>Call or Request a Quote</h3><p>Reach out by phone or the online form and tell us about your property and project.</p></div>
-      <div class="step"><div class="num">2</div><h3>Free Estimate</h3><p>We walk the property and give you a straightforward, no-obligation price - no surprises.</p></div>
-      <div class="step"><div class="num">3</div><h3>We Build</h3><p>Our crew shows up on schedule and treats your property with care from start to finish.</p></div>
-      <div class="step"><div class="num">4</div><h3>Final Walkthrough</h3><p>We review the finished work together and stand behind it after the job is done.</p></div>
+      <div class="step"><div class="num">1</div><h3>Call or Ask for a Quote</h3><p>Call us or use the form. Tell us about your place and your job.</p></div>
+      <div class="step"><div class="num">2</div><h3>Free Estimate</h3><p>We walk your place. Then we give you a clear price. No strings and no surprises.</p></div>
+      <div class="step"><div class="num">3</div><h3>We Build</h3><p>Our crew shows up on time. We treat your place with care from start to finish.</p></div>
+      <div class="step"><div class="num">4</div><h3>Final Walkthrough</h3><p>We look over the finished work with you. We stand behind it after the job is done.</p></div>
     </div>
   </div>
     <div class="cta-strip-wrap" style="padding-bottom:0; margin:32px 0;">
       <div class="cta-strip">
         <div class="cta-strip-text">
-          <strong>Questions About Scheduling?</strong>
-          <span>Call us directly or request a quote and we'll get back to you fast.</span>
+          <strong>Questions About Timing?</strong>
+          <span>Call us or ask for a quote. We'll get back to you fast.</span>
         </div>
         <div class="cta-strip-actions">
           <a href="tel:+19413931144" class="btn btn-outline-dark" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'strip_phone_button_2'})">Call Now</a>
@@ -450,7 +450,7 @@ faqs:
     <div class="section-head">
       <span class="eyebrow-dark">Service Area</span>
       <h2>Serving North Port &amp; Southwest Florida</h2>
-      <p>Based in North Port, we regularly serve the surrounding communities across Sarasota, Charlotte, Manatee, and Lee counties.</p>
+      <p>We are based in North Port. We often work in nearby towns in Sarasota, Charlotte, Manatee and Lee counties.</p>
     </div>
     <div class="locations-grid">
       <a href="/" class="location-chip"><strong>North Port, FL</strong><span>Home base</span></a>
@@ -470,7 +470,7 @@ faqs:
   <div class="container">
     <div class="cta-band">
       <h2>Ready to Start Your Project?</h2>
-      <p>Call Tropical Bay Builders today or request a free estimate online. We're happy to answer questions about scheduling, pricing, or your specific project.</p>
+      <p>Call Tropical Bay Builders today, or ask for a free quote online. We're glad to answer questions about timing, prices or your job.</p>
       <div class="cta-actions">
         <a href="tel:+19413931144" class="btn btn-outline" onclick="if(typeof gtag==='function')gtag('event','call_click',{'event_category':'engagement','event_label':'cta_band_phone_button'})">Call (941) 393-1144</a>
         <a href="/#quote" class="btn btn-primary">Request a Free Estimate</a>
@@ -481,36 +481,36 @@ faqs:
 <section>
   <div class="container content-section">
     <h2>North Port General Contractor You Can Count On</h2>
-    <p>Homeowners across North Port deal with a specific set of building challenges: Florida's humidity and sun that punish poorly-sealed materials, wind-load codes that only keep getting stricter, and a storm season that turns "someday" projects into urgent ones. Tropical Bay Builders is built around solving exactly those problems - real craftsmanship for planned remodels and new construction, and a fast, accountable response when storm, water, or fire damage turns a home upside down.</p>
+    <p>Homes in North Port face some hard building problems. The damp air and hot sun here beat up anything that is not sealed well. Wind codes keep getting stricter. Storm season can turn a "someday" job into a "right now" job. We built our company to solve just those problems. We bring real skill to planned remodels and new builds. When storm, water or fire damage turns a home upside down, we act fast. And we own the job.</p>
     <div class="content-layout">
       <div class="content-main">
         <h3>Services We Provide</h3>
         <ul class="icon-list">
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Kitchen &amp; bathroom remodeling</li>
-          <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> New construction &amp; additions</li>
-          <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Roofing, fences &amp; hardscaping</li>
+          <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> New builds &amp; additions</li>
+          <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Roofing, fences, driveways &amp; patios</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Epoxy flooring &amp; custom woodworking</li>
           <li><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M20 6L9 17l-5-5"></path></svg> Storm, water &amp; fire damage restoration</li>
         </ul>
-        <p>Whether you're searching for "general contractor near me," a "North Port remodeling contractor near me," or you need someone out fast after a storm, we're set up to help. We're licensed and insured, and we manage design, permitting, and construction as one accountable team based right here in North Port.</p>
+        <p>Maybe you searched for "general contractor near me". Maybe you typed "North Port remodeling contractor near me". Or maybe you need someone out fast after a storm. Either way, we're set up to help. We're licensed and insured. We run the design, the permits and the build as one team. That team owns the whole job. And it is based right here in North Port.</p>
         <div class="callout">
-          <p>"Most of the regret we hear from homeowners starts the same way - hiring based on the lowest number instead of asking who's actually managing the job. That's the exact problem being a real general contractor, not a subcontractor broker, is built to solve."</p>
+          <p>"Most regret we hear from homeowners starts the same way. They hired the lowest number. They did not ask who was really running the job. A real general contractor is built to solve that exact problem. We are not a broker who just hands the work to subs."</p>
         </div>
         <h3>Communities We Serve Near North Port</h3>
-        <p>In addition to North Port proper - including Wellen Park, North Port Estates, and the neighborhoods along the Toledo Blade corridor - we regularly serve Charlotte County (Port Charlotte, Punta Gorda), Sarasota County (Venice, Englewood, Sarasota), Manatee County (Bradenton), and Lee County (Fort Myers, Boca Grande). If your town isn't listed, give us a call - there's a good chance we still cover it.</p>
+        <p>We work all over North Port. That includes Wellen Park, North Port Estates and the streets along Toledo Blade. We also often work in Charlotte County (Port Charlotte, Punta Gorda). We cover Sarasota County (Venice, Englewood, Sarasota) too. We also serve Manatee County (Bradenton) and Lee County (Fort Myers, Boca Grande). Is your town not on the list? Give us a call. There's a good chance we still cover it.</p>
         <h3>Frequently Asked Questions</h3>
         <div class="faq-list">
           <details class="faq-item">
             <summary>How much does a remodel or repair cost?<span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg></span></summary>
-            <p>It depends on scope, materials, and access, which is why we give every property a straightforward free estimate rather than a flat rate - a bathroom refresh and a full kitchen gut simply aren't the same job.</p>
+            <p>It depends on the size of the job and the materials. It also depends on how easy the site is to reach. That's why we give each home a clear, free estimate. We don't use a flat rate. A small bathroom refresh and a full kitchen gut are not the same job.</p>
           </details>
           <details class="faq-item">
             <summary>Do you serve areas outside North Port?<span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg></span></summary>
-            <p>Yes - we regularly serve Port Charlotte, Punta Gorda, Venice, Englewood, Sarasota, Bradenton, Fort Myers, and Boca Grande. See our <a href="/locations">full service area list</a> or just give us a call.</p>
+            <p>Yes. We often work in Port Charlotte, Punta Gorda, Venice, Englewood, Sarasota, Bradenton, Fort Myers and Boca Grande. See our <a href="/locations">full service area list</a>, or just give us a call.</p>
           </details>
           <details class="faq-item">
             <summary>Can you handle both remodeling and storm damage restoration?<span class="faq-icon"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="12" y1="5" x2="12" y2="19"></line><line x1="5" y1="12" x2="19" y2="12"></line></svg></span></summary>
-            <p>Yes. We're a full general contractor, so we handle planned remodeling and new construction as well as storm, water, and fire damage restoration, with the same crew from start to finish.</p>
+            <p>Yes. We're a full general contractor. We do planned remodels and new builds. We also fix storm, water and fire damage. The same crew works with you from start to finish.</p>
           </details>
         </div>
       </div>
@@ -553,9 +553,9 @@ faqs:
 
 ## Areas We Serve
 
-Tropical Bay Builders is based in North Port and works along the Gulf Coast from Bradenton down to Sanibel Island. One crew handles remodeling, new construction and restoration, so you deal with the same people from the first visit to the final walkthrough.
+Tropical Bay Builders is based in North Port. We work along the Gulf Coast from Bradenton down to Sanibel Island. One crew does remodels, new builds and damage repair. So you deal with the same people from the first visit to the final walkthrough.
 
-We regularly work in:
+We often work in:
 
 - [Port Charlotte](/locations/port-charlotte)
 - [Punta Gorda](/locations/punta-gorda)
@@ -567,4 +567,4 @@ We regularly work in:
 - [Boca Grande](/locations/boca-grande)
 - North Port and Sanibel Island
 
-If your home or business is in one of these areas, call (941) 393-1144 for a free, no-obligation estimate. See all [service areas](/locations).
+Is your home or business in one of these areas? Call (941) 393-1144 for a free estimate. There are no strings. See all [service areas](/locations).
